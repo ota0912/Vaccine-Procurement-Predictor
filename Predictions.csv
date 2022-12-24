@@ -1,0 +1,3511 @@
+DISEASE,STATE,YEAR,PREDICTION
+BCG,All India,2020,26663914
+BCG,All India,2021,26796724
+BCG,All India,2022,26929533
+BCG,All India,2023,27062343
+BCG,All India,2024,27195152
+BCG,All India,2025,27327962
+BCG,All India,2026,27460771
+BCG,All India,2027,27593581
+BCG,All India,2028,27726390
+BCG,All India,2029,27859200
+BCG,Arunachal Pradesh,2020,0
+BCG,Arunachal Pradesh,2021,0
+BCG,Arunachal Pradesh,2022,0
+BCG,Arunachal Pradesh,2023,0
+BCG,Arunachal Pradesh,2024,0
+BCG,Arunachal Pradesh,2025,0
+BCG,Arunachal Pradesh,2026,0
+BCG,Arunachal Pradesh,2027,0
+BCG,Arunachal Pradesh,2028,0
+BCG,Arunachal Pradesh,2029,0
+BCG,Assam,2020,815167
+BCG,Assam,2021,843004
+BCG,Assam,2022,870841
+BCG,Assam,2023,898678
+BCG,Assam,2024,926515
+BCG,Assam,2025,954352
+BCG,Assam,2026,982189
+BCG,Assam,2027,1010026
+BCG,Assam,2028,1037863
+BCG,Assam,2029,1065700
+BCG,Manipur,2020,47458
+BCG,Manipur,2021,48394
+BCG,Manipur,2022,49331
+BCG,Manipur,2023,50267
+BCG,Manipur,2024,51203
+BCG,Manipur,2025,52140
+BCG,Manipur,2026,53076
+BCG,Manipur,2027,54012
+BCG,Manipur,2028,54949
+BCG,Manipur,2029,55885
+BCG,Meghalaya,2020,76485
+BCG,Meghalaya,2021,77686
+BCG,Meghalaya,2022,78886
+BCG,Meghalaya,2023,80086
+BCG,Meghalaya,2024,81287
+BCG,Meghalaya,2025,82487
+BCG,Meghalaya,2026,83688
+BCG,Meghalaya,2027,84888
+BCG,Meghalaya,2028,86088
+BCG,Meghalaya,2029,87289
+BCG,Mizoram,2020,14226
+BCG,Mizoram,2021,13474
+BCG,Mizoram,2022,12723
+BCG,Mizoram,2023,11971
+BCG,Mizoram,2024,11219
+BCG,Mizoram,2025,10467
+BCG,Mizoram,2026,9716
+BCG,Mizoram,2027,8964
+BCG,Mizoram,2028,8212
+BCG,Mizoram,2029,7460
+BCG,Nagaland,2020,32660
+BCG,Nagaland,2021,33204
+BCG,Nagaland,2022,33748
+BCG,Nagaland,2023,34292
+BCG,Nagaland,2024,34836
+BCG,Nagaland,2025,35380
+BCG,Nagaland,2026,35924
+BCG,Nagaland,2027,36468
+BCG,Nagaland,2028,37012
+BCG,Nagaland,2029,37556
+BCG,Sikkim,2020,0
+BCG,Sikkim,2021,0
+BCG,Sikkim,2022,0
+BCG,Sikkim,2023,0
+BCG,Sikkim,2024,0
+BCG,Sikkim,2025,0
+BCG,Sikkim,2026,0
+BCG,Sikkim,2027,0
+BCG,Sikkim,2028,0
+BCG,Sikkim,2029,0
+BCG,Tripura,2020,0
+BCG,Tripura,2021,0
+BCG,Tripura,2022,0
+BCG,Tripura,2023,0
+BCG,Tripura,2024,0
+BCG,Tripura,2025,0
+BCG,Tripura,2026,0
+BCG,Tripura,2027,0
+BCG,Tripura,2028,0
+BCG,Tripura,2029,0
+BCG,Bihar,2020,2933598
+BCG,Bihar,2021,2957870
+BCG,Bihar,2022,2982142
+BCG,Bihar,2023,3006414
+BCG,Bihar,2024,3030686
+BCG,Bihar,2025,3054958
+BCG,Bihar,2026,3079230
+BCG,Bihar,2027,3103502
+BCG,Bihar,2028,3127774
+BCG,Bihar,2029,3152046
+BCG,Chhattisgarh,2020,692806
+BCG,Chhattisgarh,2021,714985
+BCG,Chhattisgarh,2022,737164
+BCG,Chhattisgarh,2023,759343
+BCG,Chhattisgarh,2024,781523
+BCG,Chhattisgarh,2025,803702
+BCG,Chhattisgarh,2026,825881
+BCG,Chhattisgarh,2027,848060
+BCG,Chhattisgarh,2028,870239
+BCG,Chhattisgarh,2029,892418
+BCG,Himachal Pradesh,2020,112372
+BCG,Himachal Pradesh,2021,112459
+BCG,Himachal Pradesh,2022,112546
+BCG,Himachal Pradesh,2023,112633
+BCG,Himachal Pradesh,2024,112720
+BCG,Himachal Pradesh,2025,112808
+BCG,Himachal Pradesh,2026,112895
+BCG,Himachal Pradesh,2027,112982
+BCG,Himachal Pradesh,2028,113069
+BCG,Himachal Pradesh,2029,113156
+BCG,Jammu & Kashmir,2020,69858
+BCG,Jammu & Kashmir,2021,43059
+BCG,Jammu & Kashmir,2022,16260
+BCG,Jammu & Kashmir,2023,0
+BCG,Jammu & Kashmir,2024,0
+BCG,Jammu & Kashmir,2025,0
+BCG,Jammu & Kashmir,2026,0
+BCG,Jammu & Kashmir,2027,0
+BCG,Jammu & Kashmir,2028,0
+BCG,Jammu & Kashmir,2029,0
+BCG,Jharkhand,2020,653904
+BCG,Jharkhand,2021,611419
+BCG,Jharkhand,2022,568934
+BCG,Jharkhand,2023,526449
+BCG,Jharkhand,2024,483964
+BCG,Jharkhand,2025,441480
+BCG,Jharkhand,2026,398995
+BCG,Jharkhand,2027,356510
+BCG,Jharkhand,2028,314025
+BCG,Jharkhand,2029,271540
+BCG,Madhya Pradesh,2020,1950786
+BCG,Madhya Pradesh,2021,1960329
+BCG,Madhya Pradesh,2022,1969873
+BCG,Madhya Pradesh,2023,1979417
+BCG,Madhya Pradesh,2024,1988961
+BCG,Madhya Pradesh,2025,1998505
+BCG,Madhya Pradesh,2026,2008049
+BCG,Madhya Pradesh,2027,2017592
+BCG,Madhya Pradesh,2028,2027136
+BCG,Madhya Pradesh,2029,2036680
+BCG,Odisha,2020,642903
+BCG,Odisha,2021,602415
+BCG,Odisha,2022,561927
+BCG,Odisha,2023,521439
+BCG,Odisha,2024,480951
+BCG,Odisha,2025,440463
+BCG,Odisha,2026,399976
+BCG,Odisha,2027,359488
+BCG,Odisha,2028,319000
+BCG,Odisha,2029,278512
+BCG,Rajasthan,2020,1027071
+BCG,Rajasthan,2021,872946
+BCG,Rajasthan,2022,718821
+BCG,Rajasthan,2023,564696
+BCG,Rajasthan,2024,410570
+BCG,Rajasthan,2025,256445
+BCG,Rajasthan,2026,102320
+BCG,Rajasthan,2027,0
+BCG,Rajasthan,2028,0
+BCG,Rajasthan,2029,0
+BCG,Uttar Pradesh,2020,6847419
+BCG,Uttar Pradesh,2021,7123355
+BCG,Uttar Pradesh,2022,7399291
+BCG,Uttar Pradesh,2023,7675227
+BCG,Uttar Pradesh,2024,7951163
+BCG,Uttar Pradesh,2025,8227099
+BCG,Uttar Pradesh,2026,8503035
+BCG,Uttar Pradesh,2027,8778970
+BCG,Uttar Pradesh,2028,9054906
+BCG,Uttar Pradesh,2029,9330842
+BCG,Uttarakhand,2020,187952
+BCG,Uttarakhand,2021,188044
+BCG,Uttarakhand,2022,188136
+BCG,Uttarakhand,2023,188228
+BCG,Uttarakhand,2024,188320
+BCG,Uttarakhand,2025,188413
+BCG,Uttarakhand,2026,188505
+BCG,Uttarakhand,2027,188597
+BCG,Uttarakhand,2028,188689
+BCG,Uttarakhand,2029,188781
+BCG,Andhra Pradesh Old,2020,481333
+BCG,Andhra Pradesh Old,2021,461564
+BCG,Andhra Pradesh Old,2022,441794
+BCG,Andhra Pradesh Old,2023,422025
+BCG,Andhra Pradesh Old,2024,402256
+BCG,Andhra Pradesh Old,2025,382487
+BCG,Andhra Pradesh Old,2026,362717
+BCG,Andhra Pradesh Old,2027,342948
+BCG,Andhra Pradesh Old,2028,323179
+BCG,Andhra Pradesh Old,2029,303410
+BCG,Goa,2020,0
+BCG,Goa,2021,0
+BCG,Goa,2022,0
+BCG,Goa,2023,0
+BCG,Goa,2024,0
+BCG,Goa,2025,0
+BCG,Goa,2026,0
+BCG,Goa,2027,0
+BCG,Goa,2028,0
+BCG,Goa,2029,0
+BCG,Gujarat,2020,1471045
+BCG,Gujarat,2021,1566616
+BCG,Gujarat,2022,1662187
+BCG,Gujarat,2023,1757758
+BCG,Gujarat,2024,1853329
+BCG,Gujarat,2025,1948900
+BCG,Gujarat,2026,2044471
+BCG,Gujarat,2027,2140042
+BCG,Gujarat,2028,2235613
+BCG,Gujarat,2029,2331184
+BCG,Haryana,2020,535242
+BCG,Haryana,2021,476911
+BCG,Haryana,2022,418580
+BCG,Haryana,2023,360248
+BCG,Haryana,2024,301917
+BCG,Haryana,2025,243586
+BCG,Haryana,2026,185254
+BCG,Haryana,2027,126923
+BCG,Haryana,2028,68592
+BCG,Haryana,2029,10260
+BCG,Karnataka,2020,1234510
+BCG,Karnataka,2021,1306778
+BCG,Karnataka,2022,1379046
+BCG,Karnataka,2023,1451314
+BCG,Karnataka,2024,1523582
+BCG,Karnataka,2025,1595850
+BCG,Karnataka,2026,1668118
+BCG,Karnataka,2027,1740386
+BCG,Karnataka,2028,1812654
+BCG,Karnataka,2029,1884922
+BCG,Kerala,2020,276798
+BCG,Kerala,2021,117349
+BCG,Kerala,2022,0
+BCG,Kerala,2023,0
+BCG,Kerala,2024,0
+BCG,Kerala,2025,0
+BCG,Kerala,2026,0
+BCG,Kerala,2027,0
+BCG,Kerala,2028,0
+BCG,Kerala,2029,0
+BCG,Maharashtra,2020,2283289
+BCG,Maharashtra,2021,2459450
+BCG,Maharashtra,2022,2635611
+BCG,Maharashtra,2023,2811773
+BCG,Maharashtra,2024,2987934
+BCG,Maharashtra,2025,3164095
+BCG,Maharashtra,2026,3340257
+BCG,Maharashtra,2027,3516418
+BCG,Maharashtra,2028,3692579
+BCG,Maharashtra,2029,3868741
+BCG,Punjab,2020,229627
+BCG,Punjab,2021,137177
+BCG,Punjab,2022,44727
+BCG,Punjab,2023,0
+BCG,Punjab,2024,0
+BCG,Punjab,2025,0
+BCG,Punjab,2026,0
+BCG,Punjab,2027,0
+BCG,Punjab,2028,0
+BCG,Punjab,2029,0
+BCG,Tamil Nadu,2020,1016579
+BCG,Tamil Nadu,2021,971249
+BCG,Tamil Nadu,2022,925919
+BCG,Tamil Nadu,2023,880589
+BCG,Tamil Nadu,2024,835259
+BCG,Tamil Nadu,2025,789929
+BCG,Tamil Nadu,2026,744599
+BCG,Tamil Nadu,2027,699269
+BCG,Tamil Nadu,2028,653939
+BCG,Tamil Nadu,2029,608609
+BCG,West Bengal,2020,1849650
+BCG,West Bengal,2021,2029700
+BCG,West Bengal,2022,2209751
+BCG,West Bengal,2023,2389801
+BCG,West Bengal,2024,2569851
+BCG,West Bengal,2025,2749902
+BCG,West Bengal,2026,2929952
+BCG,West Bengal,2027,3110002
+BCG,West Bengal,2028,3290052
+BCG,West Bengal,2029,3470103
+BCG,A & N Islands,2020,1667
+BCG,A & N Islands,2021,0
+BCG,A & N Islands,2022,0
+BCG,A & N Islands,2023,0
+BCG,A & N Islands,2024,0
+BCG,A & N Islands,2025,0
+BCG,A & N Islands,2026,0
+BCG,A & N Islands,2027,0
+BCG,A & N Islands,2028,0
+BCG,A & N Islands,2029,0
+BCG,Chandigarh,2020,22280
+BCG,Chandigarh,2021,23550
+BCG,Chandigarh,2022,24820
+BCG,Chandigarh,2023,26090
+BCG,Chandigarh,2024,27360
+BCG,Chandigarh,2025,28630
+BCG,Chandigarh,2026,29901
+BCG,Chandigarh,2027,31171
+BCG,Chandigarh,2028,32441
+BCG,Chandigarh,2029,33711
+BCG,Dadra & Nagar Haveli,2020,12221
+BCG,Dadra & Nagar Haveli,2021,12984
+BCG,Dadra & Nagar Haveli,2022,13748
+BCG,Dadra & Nagar Haveli,2023,14511
+BCG,Dadra & Nagar Haveli,2024,15275
+BCG,Dadra & Nagar Haveli,2025,16038
+BCG,Dadra & Nagar Haveli,2026,16801
+BCG,Dadra & Nagar Haveli,2027,17565
+BCG,Dadra & Nagar Haveli,2028,18328
+BCG,Dadra & Nagar Haveli,2029,19092
+BCG,Daman & Diu,2020,0
+BCG,Daman & Diu,2021,0
+BCG,Daman & Diu,2022,0
+BCG,Daman & Diu,2023,0
+BCG,Daman & Diu,2024,0
+BCG,Daman & Diu,2025,0
+BCG,Daman & Diu,2026,0
+BCG,Daman & Diu,2027,0
+BCG,Daman & Diu,2028,0
+BCG,Daman & Diu,2029,0
+BCG,Delhi,2020,427853
+BCG,Delhi,2021,475109
+BCG,Delhi,2022,522365
+BCG,Delhi,2023,569621
+BCG,Delhi,2024,616878
+BCG,Delhi,2025,664134
+BCG,Delhi,2026,711390
+BCG,Delhi,2027,758646
+BCG,Delhi,2028,805902
+BCG,Delhi,2029,853158
+BCG,Lakshadweep,2020,5232
+BCG,Lakshadweep,2021,3733
+BCG,Lakshadweep,2022,2235
+BCG,Lakshadweep,2023,736
+BCG,Lakshadweep,2024,0
+BCG,Lakshadweep,2025,0
+BCG,Lakshadweep,2026,0
+BCG,Lakshadweep,2027,0
+BCG,Lakshadweep,2028,0
+BCG,Lakshadweep,2029,0
+BCG,Puducherry,2020,26453263
+BCG,Puducherry,2021,26569179
+BCG,Puducherry,2022,26685094
+BCG,Puducherry,2023,26801009
+BCG,Puducherry,2024,26916925
+BCG,Puducherry,2025,27032840
+BCG,Puducherry,2026,27148755
+BCG,Puducherry,2027,27264671
+BCG,Puducherry,2028,27380586
+BCG,Puducherry,2029,27496502
+DPT,All India,2020,26913
+DPT,All India,2021,26984
+DPT,All India,2022,27056
+DPT,All India,2023,27127
+DPT,All India,2024,27198
+DPT,All India,2025,27270
+DPT,All India,2026,27341
+DPT,All India,2027,27412
+DPT,All India,2028,27484
+DPT,All India,2029,27555
+DPT,Arunachal Pradesh,2020,718132
+DPT,Arunachal Pradesh,2021,722377
+DPT,Arunachal Pradesh,2022,726623
+DPT,Arunachal Pradesh,2023,730869
+DPT,Arunachal Pradesh,2024,735114
+DPT,Arunachal Pradesh,2025,739360
+DPT,Arunachal Pradesh,2026,743605
+DPT,Arunachal Pradesh,2027,747851
+DPT,Arunachal Pradesh,2028,752097
+DPT,Arunachal Pradesh,2029,756342
+DPT,Assam,2020,441899
+DPT,Assam,2021,490315
+DPT,Assam,2022,538731
+DPT,Assam,2023,587147
+DPT,Assam,2024,635563
+DPT,Assam,2025,683979
+DPT,Assam,2026,732395
+DPT,Assam,2027,780811
+DPT,Assam,2028,829227
+DPT,Assam,2029,877643
+DPT,Manipur,2020,77604
+DPT,Manipur,2021,79050
+DPT,Manipur,2022,80496
+DPT,Manipur,2023,81942
+DPT,Manipur,2024,83389
+DPT,Manipur,2025,84835
+DPT,Manipur,2026,86281
+DPT,Manipur,2027,87728
+DPT,Manipur,2028,89174
+DPT,Manipur,2029,90620
+DPT,Meghalaya,2020,17832
+DPT,Meghalaya,2021,17882
+DPT,Meghalaya,2022,17932
+DPT,Meghalaya,2023,17982
+DPT,Meghalaya,2024,18031
+DPT,Meghalaya,2025,18081
+DPT,Meghalaya,2026,18131
+DPT,Meghalaya,2027,18181
+DPT,Meghalaya,2028,18230
+DPT,Meghalaya,2029,18280
+DPT,Mizoram,2020,26999
+DPT,Mizoram,2021,26180
+DPT,Mizoram,2022,25362
+DPT,Mizoram,2023,24543
+DPT,Mizoram,2024,23725
+DPT,Mizoram,2025,22906
+DPT,Mizoram,2026,22088
+DPT,Mizoram,2027,21269
+DPT,Mizoram,2028,20451
+DPT,Mizoram,2029,19632
+DPT,Nagaland,2020,19166
+DPT,Nagaland,2021,20155
+DPT,Nagaland,2022,21144
+DPT,Nagaland,2023,22133
+DPT,Nagaland,2024,23122
+DPT,Nagaland,2025,24111
+DPT,Nagaland,2026,25101
+DPT,Nagaland,2027,26090
+DPT,Nagaland,2028,27079
+DPT,Nagaland,2029,28068
+DPT,Sikkim,2020,38607
+DPT,Sikkim,2021,36797
+DPT,Sikkim,2022,34986
+DPT,Sikkim,2023,33176
+DPT,Sikkim,2024,31365
+DPT,Sikkim,2025,29555
+DPT,Sikkim,2026,27745
+DPT,Sikkim,2027,25934
+DPT,Sikkim,2028,24124
+DPT,Sikkim,2029,22313
+DPT,Tripura,2020,1889959
+DPT,Tripura,2021,1782715
+DPT,Tripura,2022,1675471
+DPT,Tripura,2023,1568227
+DPT,Tripura,2024,1460982
+DPT,Tripura,2025,1353738
+DPT,Tripura,2026,1246494
+DPT,Tripura,2027,1139250
+DPT,Tripura,2028,1032005
+DPT,Tripura,2029,924761
+DPT,Bihar,2020,1633797
+DPT,Bihar,2021,1745693
+DPT,Bihar,2022,1857589
+DPT,Bihar,2023,1969485
+DPT,Bihar,2024,2081381
+DPT,Bihar,2025,2193277
+DPT,Bihar,2026,2305173
+DPT,Bihar,2027,2417069
+DPT,Bihar,2028,2528965
+DPT,Bihar,2029,2640861
+DPT,Chhattisgarh,2020,115207
+DPT,Chhattisgarh,2021,115544
+DPT,Chhattisgarh,2022,115880
+DPT,Chhattisgarh,2023,116216
+DPT,Chhattisgarh,2024,116552
+DPT,Chhattisgarh,2025,116888
+DPT,Chhattisgarh,2026,117224
+DPT,Chhattisgarh,2027,117560
+DPT,Chhattisgarh,2028,117897
+DPT,Chhattisgarh,2029,118233
+DPT,Himachal Pradesh,2020,170406
+DPT,Himachal Pradesh,2021,165216
+DPT,Himachal Pradesh,2022,160026
+DPT,Himachal Pradesh,2023,154836
+DPT,Himachal Pradesh,2024,149646
+DPT,Himachal Pradesh,2025,144456
+DPT,Himachal Pradesh,2026,139266
+DPT,Himachal Pradesh,2027,134076
+DPT,Himachal Pradesh,2028,128886
+DPT,Himachal Pradesh,2029,123696
+DPT,Jammu & Kashmir,2020,828999
+DPT,Jammu & Kashmir,2021,833895
+DPT,Jammu & Kashmir,2022,838790
+DPT,Jammu & Kashmir,2023,843685
+DPT,Jammu & Kashmir,2024,848580
+DPT,Jammu & Kashmir,2025,853475
+DPT,Jammu & Kashmir,2026,858370
+DPT,Jammu & Kashmir,2027,863265
+DPT,Jammu & Kashmir,2028,868161
+DPT,Jammu & Kashmir,2029,873056
+DPT,Jharkhand,2020,1504043
+DPT,Jharkhand,2021,1459324
+DPT,Jharkhand,2022,1414604
+DPT,Jharkhand,2023,1369884
+DPT,Jharkhand,2024,1325164
+DPT,Jharkhand,2025,1280445
+DPT,Jharkhand,2026,1235725
+DPT,Jharkhand,2027,1191005
+DPT,Jharkhand,2028,1146286
+DPT,Jharkhand,2029,1101566
+DPT,Madhya Pradesh,2020,1244676
+DPT,Madhya Pradesh,2021,1293067
+DPT,Madhya Pradesh,2022,1341457
+DPT,Madhya Pradesh,2023,1389847
+DPT,Madhya Pradesh,2024,1438237
+DPT,Madhya Pradesh,2025,1486628
+DPT,Madhya Pradesh,2026,1535018
+DPT,Madhya Pradesh,2027,1583408
+DPT,Madhya Pradesh,2028,1631798
+DPT,Madhya Pradesh,2029,1680188
+DPT,Odisha,2020,1308383
+DPT,Odisha,2021,1257532
+DPT,Odisha,2022,1206681
+DPT,Odisha,2023,1155830
+DPT,Odisha,2024,1104979
+DPT,Odisha,2025,1054128
+DPT,Odisha,2026,1003277
+DPT,Odisha,2027,952426
+DPT,Odisha,2028,901575
+DPT,Odisha,2029,850724
+DPT,Rajasthan,2020,4264503
+DPT,Rajasthan,2021,4112002
+DPT,Rajasthan,2022,3959501
+DPT,Rajasthan,2023,3807000
+DPT,Rajasthan,2024,3654499
+DPT,Rajasthan,2025,3501998
+DPT,Rajasthan,2026,3349497
+DPT,Rajasthan,2027,3196996
+DPT,Rajasthan,2028,3044495
+DPT,Rajasthan,2029,2891995
+DPT,Uttar Pradesh,2020,2132955
+DPT,Uttar Pradesh,2021,2351298
+DPT,Uttar Pradesh,2022,2569641
+DPT,Uttar Pradesh,2023,2787984
+DPT,Uttar Pradesh,2024,3006328
+DPT,Uttar Pradesh,2025,3224671
+DPT,Uttar Pradesh,2026,3443014
+DPT,Uttar Pradesh,2027,3661357
+DPT,Uttar Pradesh,2028,3879701
+DPT,Uttar Pradesh,2029,4098044
+DPT,Uttarakhand,2020,218018
+DPT,Uttarakhand,2021,142291
+DPT,Uttarakhand,2022,66563
+DPT,Uttarakhand,2023,0
+DPT,Uttarakhand,2024,0
+DPT,Uttarakhand,2025,0
+DPT,Uttarakhand,2026,0
+DPT,Uttarakhand,2027,0
+DPT,Uttarakhand,2028,0
+DPT,Uttarakhand,2029,0
+DPT,Goa,2020,0
+DPT,Goa,2021,0
+DPT,Goa,2022,0
+DPT,Goa,2023,0
+DPT,Goa,2024,0
+DPT,Goa,2025,0
+DPT,Goa,2026,0
+DPT,Goa,2027,0
+DPT,Goa,2028,0
+DPT,Goa,2029,0
+DPT,Gujarat,2020,1561187
+DPT,Gujarat,2021,1646817
+DPT,Gujarat,2022,1732447
+DPT,Gujarat,2023,1818078
+DPT,Gujarat,2024,1903708
+DPT,Gujarat,2025,1989339
+DPT,Gujarat,2026,2074969
+DPT,Gujarat,2027,2160600
+DPT,Gujarat,2028,2246230
+DPT,Gujarat,2029,2331860
+DPT,Haryana,2020,387808
+DPT,Haryana,2021,326563
+DPT,Haryana,2022,265319
+DPT,Haryana,2023,204074
+DPT,Haryana,2024,142829
+DPT,Haryana,2025,81585
+DPT,Haryana,2026,20340
+DPT,Haryana,2027,0
+DPT,Haryana,2028,0
+DPT,Haryana,2029,0
+DPT,Karnataka,2020,1428718
+DPT,Karnataka,2021,1516205
+DPT,Karnataka,2022,1603691
+DPT,Karnataka,2023,1691177
+DPT,Karnataka,2024,1778664
+DPT,Karnataka,2025,1866150
+DPT,Karnataka,2026,1953636
+DPT,Karnataka,2027,2041122
+DPT,Karnataka,2028,2128609
+DPT,Karnataka,2029,2216095
+DPT,Kerala,2020,0
+DPT,Kerala,2021,0
+DPT,Kerala,2022,0
+DPT,Kerala,2023,0
+DPT,Kerala,2024,0
+DPT,Kerala,2025,0
+DPT,Kerala,2026,0
+DPT,Kerala,2027,0
+DPT,Kerala,2028,0
+DPT,Kerala,2029,0
+DPT,Maharashtra,2020,2450352
+DPT,Maharashtra,2021,2637725
+DPT,Maharashtra,2022,2825098
+DPT,Maharashtra,2023,3012470
+DPT,Maharashtra,2024,3199843
+DPT,Maharashtra,2025,3387216
+DPT,Maharashtra,2026,3574589
+DPT,Maharashtra,2027,3761962
+DPT,Maharashtra,2028,3949335
+DPT,Maharashtra,2029,4136707
+DPT,Punjab,2020,257973
+DPT,Punjab,2021,182147
+DPT,Punjab,2022,106321
+DPT,Punjab,2023,30494
+DPT,Punjab,2024,0
+DPT,Punjab,2025,0
+DPT,Punjab,2026,0
+DPT,Punjab,2027,0
+DPT,Punjab,2028,0
+DPT,Punjab,2029,0
+DPT,Tamil Nadu,2020,983041
+DPT,Tamil Nadu,2021,943956
+DPT,Tamil Nadu,2022,904871
+DPT,Tamil Nadu,2023,865786
+DPT,Tamil Nadu,2024,826701
+DPT,Tamil Nadu,2025,787616
+DPT,Tamil Nadu,2026,748531
+DPT,Tamil Nadu,2027,709446
+DPT,Tamil Nadu,2028,670361
+DPT,Tamil Nadu,2029,631276
+DPT,West Bengal,2020,2181626
+DPT,West Bengal,2021,2371683
+DPT,West Bengal,2022,2561741
+DPT,West Bengal,2023,2751799
+DPT,West Bengal,2024,2941857
+DPT,West Bengal,2025,3131915
+DPT,West Bengal,2026,3321973
+DPT,West Bengal,2027,3512031
+DPT,West Bengal,2028,3702089
+DPT,West Bengal,2029,3892147
+DPT,A & N Islands,2020,0
+DPT,A & N Islands,2021,0
+DPT,A & N Islands,2022,0
+DPT,A & N Islands,2023,0
+DPT,A & N Islands,2024,0
+DPT,A & N Islands,2025,0
+DPT,A & N Islands,2026,0
+DPT,A & N Islands,2027,0
+DPT,A & N Islands,2028,0
+DPT,A & N Islands,2029,0
+DPT,Chandigarh,2020,22897
+DPT,Chandigarh,2021,24152
+DPT,Chandigarh,2022,25407
+DPT,Chandigarh,2023,26662
+DPT,Chandigarh,2024,27917
+DPT,Chandigarh,2025,29172
+DPT,Chandigarh,2026,30427
+DPT,Chandigarh,2027,31682
+DPT,Chandigarh,2028,32937
+DPT,Chandigarh,2029,34192
+DPT,Dadra & Nagar Haveli,2020,12793
+DPT,Dadra & Nagar Haveli,2021,13535
+DPT,Dadra & Nagar Haveli,2022,14277
+DPT,Dadra & Nagar Haveli,2023,15018
+DPT,Dadra & Nagar Haveli,2024,15760
+DPT,Dadra & Nagar Haveli,2025,16502
+DPT,Dadra & Nagar Haveli,2026,17243
+DPT,Dadra & Nagar Haveli,2027,17985
+DPT,Dadra & Nagar Haveli,2028,18727
+DPT,Dadra & Nagar Haveli,2029,19468
+DPT,Daman & Diu,2020,0
+DPT,Daman & Diu,2021,0
+DPT,Daman & Diu,2022,0
+DPT,Daman & Diu,2023,0
+DPT,Daman & Diu,2024,0
+DPT,Daman & Diu,2025,0
+DPT,Daman & Diu,2026,0
+DPT,Daman & Diu,2027,0
+DPT,Daman & Diu,2028,0
+DPT,Daman & Diu,2029,0
+DPT,Delhi,2020,446080
+DPT,Delhi,2021,486426
+DPT,Delhi,2022,526772
+DPT,Delhi,2023,567119
+DPT,Delhi,2024,607465
+DPT,Delhi,2025,647811
+DPT,Delhi,2026,688158
+DPT,Delhi,2027,728504
+DPT,Delhi,2028,768851
+DPT,Delhi,2029,809197
+DPT,Lakshadweep,2020,0
+DPT,Lakshadweep,2021,0
+DPT,Lakshadweep,2022,0
+DPT,Lakshadweep,2023,0
+DPT,Lakshadweep,2024,0
+DPT,Lakshadweep,2025,0
+DPT,Lakshadweep,2026,0
+DPT,Lakshadweep,2027,0
+DPT,Lakshadweep,2028,0
+DPT,Lakshadweep,2029,0
+DPT,Puducherry,2020,0
+DPT,Puducherry,2021,0
+DPT,Puducherry,2022,0
+DPT,Puducherry,2023,0
+DPT,Puducherry,2024,0
+DPT,Puducherry,2025,0
+DPT,Puducherry,2026,0
+DPT,Puducherry,2027,0
+DPT,Puducherry,2028,0
+DPT,Puducherry,2029,0
+DT,All India,2020,23091477
+DT,All India,2021,25513816
+DT,All India,2022,27936155
+DT,All India,2023,30358494
+DT,All India,2024,32780833
+DT,All India,2025,35203172
+DT,All India,2026,37625511
+DT,All India,2027,40047851
+DT,All India,2028,42470190
+DT,All India,2029,44892529
+DT,Arunachal Pradesh,2020,23168
+DT,Arunachal Pradesh,2021,0
+DT,Arunachal Pradesh,2022,0
+DT,Arunachal Pradesh,2023,0
+DT,Arunachal Pradesh,2024,0
+DT,Arunachal Pradesh,2025,0
+DT,Arunachal Pradesh,2026,0
+DT,Arunachal Pradesh,2027,0
+DT,Arunachal Pradesh,2028,0
+DT,Arunachal Pradesh,2029,0
+DT,Assam,2020,723032
+DT,Assam,2021,794175
+DT,Assam,2022,865319
+DT,Assam,2023,936462
+DT,Assam,2024,1007605
+DT,Assam,2025,1078748
+DT,Assam,2026,1149892
+DT,Assam,2027,1221035
+DT,Assam,2028,1292178
+DT,Assam,2029,1363322
+DT,Manipur,2020,52008
+DT,Manipur,2021,50697
+DT,Manipur,2022,49385
+DT,Manipur,2023,48074
+DT,Manipur,2024,46763
+DT,Manipur,2025,45452
+DT,Manipur,2026,44141
+DT,Manipur,2027,42829
+DT,Manipur,2028,41518
+DT,Manipur,2029,40207
+DT,Meghalaya,2020,66264
+DT,Meghalaya,2021,72510
+DT,Meghalaya,2022,78755
+DT,Meghalaya,2023,85001
+DT,Meghalaya,2024,91247
+DT,Meghalaya,2025,97493
+DT,Meghalaya,2026,103739
+DT,Meghalaya,2027,109984
+DT,Meghalaya,2028,116230
+DT,Meghalaya,2029,122476
+DT,Mizoram,2020,16142
+DT,Mizoram,2021,14192
+DT,Mizoram,2022,12242
+DT,Mizoram,2023,10292
+DT,Mizoram,2024,8341
+DT,Mizoram,2025,6391
+DT,Mizoram,2026,4441
+DT,Mizoram,2027,2491
+DT,Mizoram,2028,540
+DT,Mizoram,2029,0
+DT,Nagaland,2020,29176
+DT,Nagaland,2021,31446
+DT,Nagaland,2022,33715
+DT,Nagaland,2023,35984
+DT,Nagaland,2024,38254
+DT,Nagaland,2025,40523
+DT,Nagaland,2026,42792
+DT,Nagaland,2027,45062
+DT,Nagaland,2028,47331
+DT,Nagaland,2029,49601
+DT,Sikkim,2020,19910
+DT,Sikkim,2021,16129
+DT,Sikkim,2022,12348
+DT,Sikkim,2023,8566
+DT,Sikkim,2024,4785
+DT,Sikkim,2025,1004
+DT,Sikkim,2026,0
+DT,Sikkim,2027,0
+DT,Sikkim,2028,0
+DT,Sikkim,2029,0
+DT,Tripura,2020,1347833
+DT,Tripura,2021,1206666
+DT,Tripura,2022,1065499
+DT,Tripura,2023,924333
+DT,Tripura,2024,783166
+DT,Tripura,2025,641999
+DT,Tripura,2026,500833
+DT,Tripura,2027,359666
+DT,Tripura,2028,218499
+DT,Tripura,2029,77333
+DT,Bihar,2020,2777197
+DT,Bihar,2021,3026970
+DT,Bihar,2022,3276742
+DT,Bihar,2023,3526515
+DT,Bihar,2024,3776287
+DT,Bihar,2025,4026060
+DT,Bihar,2026,4275833
+DT,Bihar,2027,4525605
+DT,Bihar,2028,4775378
+DT,Bihar,2029,5025150
+DT,Chhattisgarh,2020,541576
+DT,Chhattisgarh,2021,589181
+DT,Chhattisgarh,2022,636786
+DT,Chhattisgarh,2023,684392
+DT,Chhattisgarh,2024,731997
+DT,Chhattisgarh,2025,779603
+DT,Chhattisgarh,2026,827208
+DT,Chhattisgarh,2027,874813
+DT,Chhattisgarh,2028,922419
+DT,Chhattisgarh,2029,970024
+DT,Himachal Pradesh,2020,121525
+DT,Himachal Pradesh,2021,112209
+DT,Himachal Pradesh,2022,102894
+DT,Himachal Pradesh,2023,93579
+DT,Himachal Pradesh,2024,84264
+DT,Himachal Pradesh,2025,74949
+DT,Himachal Pradesh,2026,65634
+DT,Himachal Pradesh,2027,56318
+DT,Himachal Pradesh,2028,47003
+DT,Himachal Pradesh,2029,37688
+DT,Jammu & Kashmir,2020,289267
+DT,Jammu & Kashmir,2021,233947
+DT,Jammu & Kashmir,2022,178628
+DT,Jammu & Kashmir,2023,123308
+DT,Jammu & Kashmir,2024,67989
+DT,Jammu & Kashmir,2025,12669
+DT,Jammu & Kashmir,2026,0
+DT,Jammu & Kashmir,2027,0
+DT,Jammu & Kashmir,2028,0
+DT,Jammu & Kashmir,2029,0
+DT,Jharkhand,2020,1023130
+DT,Jharkhand,2021,931145
+DT,Jharkhand,2022,839159
+DT,Jharkhand,2023,747174
+DT,Jharkhand,2024,655189
+DT,Jharkhand,2025,563203
+DT,Jharkhand,2026,471218
+DT,Jharkhand,2027,379233
+DT,Jharkhand,2028,287247
+DT,Jharkhand,2029,195262
+DT,Madhya Pradesh,2020,1685303
+DT,Madhya Pradesh,2021,1784984
+DT,Madhya Pradesh,2022,1884664
+DT,Madhya Pradesh,2023,1984344
+DT,Madhya Pradesh,2024,2084024
+DT,Madhya Pradesh,2025,2183704
+DT,Madhya Pradesh,2026,2283384
+DT,Madhya Pradesh,2027,2383064
+DT,Madhya Pradesh,2028,2482744
+DT,Madhya Pradesh,2029,2582424
+DT,Odisha,2020,1262989
+DT,Odisha,2021,1212986
+DT,Odisha,2022,1162983
+DT,Odisha,2023,1112979
+DT,Odisha,2024,1062976
+DT,Odisha,2025,1012973
+DT,Odisha,2026,962969
+DT,Odisha,2027,912966
+DT,Odisha,2028,862963
+DT,Odisha,2029,812959
+DT,Rajasthan,2020,1647600
+DT,Rajasthan,2021,1231836
+DT,Rajasthan,2022,816071
+DT,Rajasthan,2023,400307
+DT,Rajasthan,2024,0
+DT,Rajasthan,2025,0
+DT,Rajasthan,2026,0
+DT,Rajasthan,2027,0
+DT,Rajasthan,2028,0
+DT,Rajasthan,2029,0
+DT,Uttar Pradesh,2020,5460458
+DT,Uttar Pradesh,2021,6046434
+DT,Uttar Pradesh,2022,6632411
+DT,Uttar Pradesh,2023,7218387
+DT,Uttar Pradesh,2024,7804363
+DT,Uttar Pradesh,2025,8390340
+DT,Uttar Pradesh,2026,8976316
+DT,Uttar Pradesh,2027,9562292
+DT,Uttar Pradesh,2028,10148268
+DT,Uttar Pradesh,2029,10734245
+DT,Uttarakhand,2020,146326
+DT,Uttarakhand,2021,50318
+DT,Uttarakhand,2022,0
+DT,Uttarakhand,2023,0
+DT,Uttarakhand,2024,0
+DT,Uttarakhand,2025,0
+DT,Uttarakhand,2026,0
+DT,Uttarakhand,2027,0
+DT,Uttarakhand,2028,0
+DT,Uttarakhand,2029,0
+DT,Goa,2020,0
+DT,Goa,2021,0
+DT,Goa,2022,0
+DT,Goa,2023,0
+DT,Goa,2024,0
+DT,Goa,2025,0
+DT,Goa,2026,0
+DT,Goa,2027,0
+DT,Goa,2028,0
+DT,Goa,2029,0
+DT,Gujarat,2020,1560416
+DT,Gujarat,2021,1632938
+DT,Gujarat,2022,1705460
+DT,Gujarat,2023,1777983
+DT,Gujarat,2024,1850505
+DT,Gujarat,2025,1923028
+DT,Gujarat,2026,1995550
+DT,Gujarat,2027,2068073
+DT,Gujarat,2028,2140595
+DT,Gujarat,2029,2213117
+DT,Haryana,2020,359829
+DT,Haryana,2021,301885
+DT,Haryana,2022,243940
+DT,Haryana,2023,185996
+DT,Haryana,2024,128051
+DT,Haryana,2025,70107
+DT,Haryana,2026,12162
+DT,Haryana,2027,0
+DT,Haryana,2028,0
+DT,Haryana,2029,0
+DT,Karnataka,2020,1383394
+DT,Karnataka,2021,1447485
+DT,Karnataka,2022,1511577
+DT,Karnataka,2023,1575668
+DT,Karnataka,2024,1639760
+DT,Karnataka,2025,1703851
+DT,Karnataka,2026,1767943
+DT,Karnataka,2027,1832035
+DT,Karnataka,2028,1896126
+DT,Karnataka,2029,1960218
+DT,Kerala,2020,138405
+DT,Kerala,2021,36368
+DT,Kerala,2022,0
+DT,Kerala,2023,0
+DT,Kerala,2024,0
+DT,Kerala,2025,0
+DT,Kerala,2026,0
+DT,Kerala,2027,0
+DT,Kerala,2028,0
+DT,Kerala,2029,0
+DT,Maharashtra,2020,2288585
+DT,Maharashtra,2021,2386273
+DT,Maharashtra,2022,2483960
+DT,Maharashtra,2023,2581647
+DT,Maharashtra,2024,2679334
+DT,Maharashtra,2025,2777021
+DT,Maharashtra,2026,2874708
+DT,Maharashtra,2027,2972395
+DT,Maharashtra,2028,3070082
+DT,Maharashtra,2029,3167769
+DT,Punjab,2020,235156
+DT,Punjab,2021,178048
+DT,Punjab,2022,120940
+DT,Punjab,2023,63832
+DT,Punjab,2024,6724
+DT,Punjab,2025,0
+DT,Punjab,2026,0
+DT,Punjab,2027,0
+DT,Punjab,2028,0
+DT,Punjab,2029,0
+DT,Tamil Nadu,2020,996567
+DT,Tamil Nadu,2021,961785
+DT,Tamil Nadu,2022,927003
+DT,Tamil Nadu,2023,892221
+DT,Tamil Nadu,2024,857440
+DT,Tamil Nadu,2025,822658
+DT,Tamil Nadu,2026,787876
+DT,Tamil Nadu,2027,753094
+DT,Tamil Nadu,2028,718312
+DT,Tamil Nadu,2029,683531
+DT,West Bengal,2020,2174246
+DT,West Bengal,2021,2331519
+DT,West Bengal,2022,2488793
+DT,West Bengal,2023,2646066
+DT,West Bengal,2024,2803339
+DT,West Bengal,2025,2960612
+DT,West Bengal,2026,3117885
+DT,West Bengal,2027,3275158
+DT,West Bengal,2028,3432432
+DT,West Bengal,2029,3589705
+DT,A & N Islands,2020,198
+DT,A & N Islands,2021,0
+DT,A & N Islands,2022,0
+DT,A & N Islands,2023,0
+DT,A & N Islands,2024,0
+DT,A & N Islands,2025,0
+DT,A & N Islands,2026,0
+DT,A & N Islands,2027,0
+DT,A & N Islands,2028,0
+DT,A & N Islands,2029,0
+DT,Chandigarh,2020,22608
+DT,Chandigarh,2021,23721
+DT,Chandigarh,2022,24834
+DT,Chandigarh,2023,25948
+DT,Chandigarh,2024,27061
+DT,Chandigarh,2025,28175
+DT,Chandigarh,2026,29288
+DT,Chandigarh,2027,30402
+DT,Chandigarh,2028,31515
+DT,Chandigarh,2029,32629
+DT,Dadra & Nagar Haveli,2020,12528
+DT,Dadra & Nagar Haveli,2021,13137
+DT,Dadra & Nagar Haveli,2022,13746
+DT,Dadra & Nagar Haveli,2023,14355
+DT,Dadra & Nagar Haveli,2024,14964
+DT,Dadra & Nagar Haveli,2025,15574
+DT,Dadra & Nagar Haveli,2026,16183
+DT,Dadra & Nagar Haveli,2027,16792
+DT,Dadra & Nagar Haveli,2028,17401
+DT,Dadra & Nagar Haveli,2029,18010
+DT,Daman & Diu,2020,0
+DT,Daman & Diu,2021,0
+DT,Daman & Diu,2022,0
+DT,Daman & Diu,2023,0
+DT,Daman & Diu,2024,0
+DT,Daman & Diu,2025,0
+DT,Daman & Diu,2026,0
+DT,Daman & Diu,2027,0
+DT,Daman & Diu,2028,0
+DT,Daman & Diu,2029,0
+DT,Delhi,2020,459907
+DT,Delhi,2021,491932
+DT,Delhi,2022,523957
+DT,Delhi,2023,555982
+DT,Delhi,2024,588007
+DT,Delhi,2025,620032
+DT,Delhi,2026,652057
+DT,Delhi,2027,684082
+DT,Delhi,2028,716107
+DT,Delhi,2029,748132
+DT,Lakshadweep,2020,0
+DT,Lakshadweep,2021,0
+DT,Lakshadweep,2022,0
+DT,Lakshadweep,2023,0
+DT,Lakshadweep,2024,0
+DT,Lakshadweep,2025,0
+DT,Lakshadweep,2026,0
+DT,Lakshadweep,2027,0
+DT,Lakshadweep,2028,0
+DT,Lakshadweep,2029,0
+DT,Puducherry,2020,0
+DT,Puducherry,2021,0
+DT,Puducherry,2022,0
+DT,Puducherry,2023,0
+DT,Puducherry,2024,0
+DT,Puducherry,2025,0
+DT,Puducherry,2026,0
+DT,Puducherry,2027,0
+DT,Puducherry,2028,0
+DT,Puducherry,2029,0
+Measles,All India,2020,31573019
+Measles,All India,2021,34566282
+Measles,All India,2022,37559545
+Measles,All India,2023,40552809
+Measles,All India,2024,43546072
+Measles,All India,2025,46539335
+Measles,All India,2026,49532599
+Measles,All India,2027,52525862
+Measles,All India,2028,55519125
+Measles,All India,2029,58512388
+Measles,Arunachal Pradesh,2020,0
+Measles,Arunachal Pradesh,2021,0
+Measles,Arunachal Pradesh,2022,0
+Measles,Arunachal Pradesh,2023,0
+Measles,Arunachal Pradesh,2024,0
+Measles,Arunachal Pradesh,2025,0
+Measles,Arunachal Pradesh,2026,0
+Measles,Arunachal Pradesh,2027,0
+Measles,Arunachal Pradesh,2028,0
+Measles,Arunachal Pradesh,2029,0
+Measles,Assam,2020,894965
+Measles,Assam,2021,979201
+Measles,Assam,2022,1063436
+Measles,Assam,2023,1147672
+Measles,Assam,2024,1231908
+Measles,Assam,2025,1316143
+Measles,Assam,2026,1400379
+Measles,Assam,2027,1484615
+Measles,Assam,2028,1568850
+Measles,Assam,2029,1653086
+Measles,Manipur,2020,43357
+Measles,Manipur,2021,41464
+Measles,Manipur,2022,39571
+Measles,Manipur,2023,37679
+Measles,Manipur,2024,35786
+Measles,Manipur,2025,33893
+Measles,Manipur,2026,32000
+Measles,Manipur,2027,30108
+Measles,Manipur,2028,28215
+Measles,Manipur,2029,26322
+Measles,Meghalaya,2020,96481
+Measles,Meghalaya,2021,105642
+Measles,Meghalaya,2022,114803
+Measles,Meghalaya,2023,123963
+Measles,Meghalaya,2024,133124
+Measles,Meghalaya,2025,142285
+Measles,Meghalaya,2026,151445
+Measles,Meghalaya,2027,160606
+Measles,Meghalaya,2028,169767
+Measles,Meghalaya,2029,178927
+Measles,Mizoram,2020,14344
+Measles,Mizoram,2021,12288
+Measles,Mizoram,2022,10232
+Measles,Mizoram,2023,8176
+Measles,Mizoram,2024,6120
+Measles,Mizoram,2025,4064
+Measles,Mizoram,2026,2008
+Measles,Mizoram,2027,0
+Measles,Mizoram,2028,0
+Measles,Mizoram,2029,0
+Measles,Nagaland,2020,33315
+Measles,Nagaland,2021,35591
+Measles,Nagaland,2022,37867
+Measles,Nagaland,2023,40143
+Measles,Nagaland,2024,42420
+Measles,Nagaland,2025,44696
+Measles,Nagaland,2026,46972
+Measles,Nagaland,2027,49248
+Measles,Nagaland,2028,51524
+Measles,Nagaland,2029,53800
+Measles,Sikkim,2020,82
+Measles,Sikkim,2021,0
+Measles,Sikkim,2022,0
+Measles,Sikkim,2023,0
+Measles,Sikkim,2024,0
+Measles,Sikkim,2025,0
+Measles,Sikkim,2026,0
+Measles,Sikkim,2027,0
+Measles,Sikkim,2028,0
+Measles,Sikkim,2029,0
+Measles,Tripura,2020,0
+Measles,Tripura,2021,0
+Measles,Tripura,2022,0
+Measles,Tripura,2023,0
+Measles,Tripura,2024,0
+Measles,Tripura,2025,0
+Measles,Tripura,2026,0
+Measles,Tripura,2027,0
+Measles,Tripura,2028,0
+Measles,Tripura,2029,0
+Measles,Bihar,2020,3096608
+Measles,Bihar,2021,3345753
+Measles,Bihar,2022,3594897
+Measles,Bihar,2023,3844041
+Measles,Bihar,2024,4093186
+Measles,Bihar,2025,4342330
+Measles,Bihar,2026,4591475
+Measles,Bihar,2027,4840619
+Measles,Bihar,2028,5089764
+Measles,Bihar,2029,5338908
+Measles,Chhattisgarh,2020,699684
+Measles,Chhattisgarh,2021,756358
+Measles,Chhattisgarh,2022,813033
+Measles,Chhattisgarh,2023,869707
+Measles,Chhattisgarh,2024,926381
+Measles,Chhattisgarh,2025,983055
+Measles,Chhattisgarh,2026,1039730
+Measles,Chhattisgarh,2027,1096404
+Measles,Chhattisgarh,2028,1153078
+Measles,Chhattisgarh,2029,1209753
+Measles,Himachal Pradesh,2020,101660
+Measles,Himachal Pradesh,2021,90549
+Measles,Himachal Pradesh,2022,79438
+Measles,Himachal Pradesh,2023,68327
+Measles,Himachal Pradesh,2024,57217
+Measles,Himachal Pradesh,2025,46106
+Measles,Himachal Pradesh,2026,34995
+Measles,Himachal Pradesh,2027,23884
+Measles,Himachal Pradesh,2028,12774
+Measles,Himachal Pradesh,2029,1663
+Measles,Jammu & Kashmir,2020,163942
+Measles,Jammu & Kashmir,2021,98917
+Measles,Jammu & Kashmir,2022,33892
+Measles,Jammu & Kashmir,2023,0
+Measles,Jammu & Kashmir,2024,0
+Measles,Jammu & Kashmir,2025,0
+Measles,Jammu & Kashmir,2026,0
+Measles,Jammu & Kashmir,2027,0
+Measles,Jammu & Kashmir,2028,0
+Measles,Jammu & Kashmir,2029,0
+Measles,Jharkhand,2020,739535
+Measles,Jharkhand,2021,627326
+Measles,Jharkhand,2022,515117
+Measles,Jharkhand,2023,402907
+Measles,Jharkhand,2024,290698
+Measles,Jharkhand,2025,178489
+Measles,Jharkhand,2026,66279
+Measles,Jharkhand,2027,0
+Measles,Jharkhand,2028,0
+Measles,Jharkhand,2029,0
+Measles,Madhya Pradesh,2020,2251406
+Measles,Madhya Pradesh,2021,2416516
+Measles,Madhya Pradesh,2022,2581625
+Measles,Madhya Pradesh,2023,2746735
+Measles,Madhya Pradesh,2024,2911844
+Measles,Madhya Pradesh,2025,3076954
+Measles,Madhya Pradesh,2026,3242063
+Measles,Madhya Pradesh,2027,3407173
+Measles,Madhya Pradesh,2028,3572282
+Measles,Madhya Pradesh,2029,3737392
+Measles,Odisha,2020,542896
+Measles,Odisha,2021,431721
+Measles,Odisha,2022,320546
+Measles,Odisha,2023,209370
+Measles,Odisha,2024,98195
+Measles,Odisha,2025,0
+Measles,Odisha,2026,0
+Measles,Odisha,2027,0
+Measles,Odisha,2028,0
+Measles,Odisha,2029,0
+Measles,Rajasthan,2020,1202447
+Measles,Rajasthan,2021,792207
+Measles,Rajasthan,2022,381968
+Measles,Rajasthan,2023,0
+Measles,Rajasthan,2024,0
+Measles,Rajasthan,2025,0
+Measles,Rajasthan,2026,0
+Measles,Rajasthan,2027,0
+Measles,Rajasthan,2028,0
+Measles,Rajasthan,2029,0
+Measles,Uttar Pradesh,2020,6672661
+Measles,Uttar Pradesh,2021,7361728
+Measles,Uttar Pradesh,2022,8050795
+Measles,Uttar Pradesh,2023,8739862
+Measles,Uttar Pradesh,2024,9428928
+Measles,Uttar Pradesh,2025,10117995
+Measles,Uttar Pradesh,2026,10807062
+Measles,Uttar Pradesh,2027,11496129
+Measles,Uttar Pradesh,2028,12185196
+Measles,Uttar Pradesh,2029,12874262
+Measles,Uttarakhand,2020,0
+Measles,Uttarakhand,2021,0
+Measles,Uttarakhand,2022,0
+Measles,Uttarakhand,2023,0
+Measles,Uttarakhand,2024,0
+Measles,Uttarakhand,2025,0
+Measles,Uttarakhand,2026,0
+Measles,Uttarakhand,2027,0
+Measles,Uttarakhand,2028,0
+Measles,Uttarakhand,2029,0
+Measles,Goa,2020,20458
+Measles,Goa,2021,20324
+Measles,Goa,2022,20190
+Measles,Goa,2023,20056
+Measles,Goa,2024,19922
+Measles,Goa,2025,19788
+Measles,Goa,2026,19654
+Measles,Goa,2027,19520
+Measles,Goa,2028,19386
+Measles,Goa,2029,19252
+Measles,Gujarat,2020,1293410
+Measles,Gujarat,2021,1298019
+Measles,Gujarat,2022,1302628
+Measles,Gujarat,2023,1307238
+Measles,Gujarat,2024,1311847
+Measles,Gujarat,2025,1316456
+Measles,Gujarat,2026,1321066
+Measles,Gujarat,2027,1325675
+Measles,Gujarat,2028,1330284
+Measles,Gujarat,2029,1334894
+Measles,Haryana,2020,569335
+Measles,Haryana,2021,572284
+Measles,Haryana,2022,575234
+Measles,Haryana,2023,578183
+Measles,Haryana,2024,581132
+Measles,Haryana,2025,584082
+Measles,Haryana,2026,587031
+Measles,Haryana,2027,589980
+Measles,Haryana,2028,592930
+Measles,Haryana,2029,595879
+Measles,Karnataka,2020,1131192
+Measles,Karnataka,2021,1132711
+Measles,Karnataka,2022,1134229
+Measles,Karnataka,2023,1135747
+Measles,Karnataka,2024,1137265
+Measles,Karnataka,2025,1138783
+Measles,Karnataka,2026,1140302
+Measles,Karnataka,2027,1141820
+Measles,Karnataka,2028,1143338
+Measles,Karnataka,2029,1144856
+Measles,Kerala,2020,200668
+Measles,Kerala,2021,123473
+Measles,Kerala,2022,46278
+Measles,Kerala,2023,0
+Measles,Kerala,2024,0
+Measles,Kerala,2025,0
+Measles,Kerala,2026,0
+Measles,Kerala,2027,0
+Measles,Kerala,2028,0
+Measles,Kerala,2029,0
+Measles,Maharashtra,2020,1946714
+Measles,Maharashtra,2021,1952149
+Measles,Maharashtra,2022,1957584
+Measles,Maharashtra,2023,1963019
+Measles,Maharashtra,2024,1968454
+Measles,Maharashtra,2025,1973889
+Measles,Maharashtra,2026,1979324
+Measles,Maharashtra,2027,1984759
+Measles,Maharashtra,2028,1990194
+Measles,Maharashtra,2029,1995630
+Measles,Punjab,2020,435153
+Measles,Punjab,2021,433931
+Measles,Punjab,2022,432709
+Measles,Punjab,2023,431487
+Measles,Punjab,2024,430265
+Measles,Punjab,2025,429043
+Measles,Punjab,2026,427821
+Measles,Punjab,2027,426599
+Measles,Punjab,2028,425377
+Measles,Punjab,2029,424155
+Measles,Tamil Nadu,2020,1011212
+Measles,Tamil Nadu,2021,986012
+Measles,Tamil Nadu,2022,960811
+Measles,Tamil Nadu,2023,935611
+Measles,Tamil Nadu,2024,910411
+Measles,Tamil Nadu,2025,885210
+Measles,Tamil Nadu,2026,860010
+Measles,Tamil Nadu,2027,834809
+Measles,Tamil Nadu,2028,809609
+Measles,Tamil Nadu,2029,784408
+Measles,West Bengal,2020,1763943
+Measles,West Bengal,2021,1828037
+Measles,West Bengal,2022,1892131
+Measles,West Bengal,2023,1956225
+Measles,West Bengal,2024,2020319
+Measles,West Bengal,2025,2084413
+Measles,West Bengal,2026,2148507
+Measles,West Bengal,2027,2212601
+Measles,West Bengal,2028,2276696
+Measles,West Bengal,2029,2340790
+Measles,A & N Islands,2020,1954
+Measles,A & N Islands,2021,1113
+Measles,A & N Islands,2022,273
+Measles,A & N Islands,2023,0
+Measles,A & N Islands,2024,0
+Measles,A & N Islands,2025,0
+Measles,A & N Islands,2026,0
+Measles,A & N Islands,2027,0
+Measles,A & N Islands,2028,0
+Measles,A & N Islands,2029,0
+Measles,Chandigarh,2020,21200
+Measles,Chandigarh,2021,21777
+Measles,Chandigarh,2022,22355
+Measles,Chandigarh,2023,22932
+Measles,Chandigarh,2024,23510
+Measles,Chandigarh,2025,24087
+Measles,Chandigarh,2026,24664
+Measles,Chandigarh,2027,25242
+Measles,Chandigarh,2028,25819
+Measles,Chandigarh,2029,26397
+Measles,Dadra & Nagar Haveli,2020,11721
+Measles,Dadra & Nagar Haveli,2021,12100
+Measles,Dadra & Nagar Haveli,2022,12479
+Measles,Dadra & Nagar Haveli,2023,12859
+Measles,Dadra & Nagar Haveli,2024,13238
+Measles,Dadra & Nagar Haveli,2025,13618
+Measles,Dadra & Nagar Haveli,2026,13997
+Measles,Dadra & Nagar Haveli,2027,14376
+Measles,Dadra & Nagar Haveli,2028,14756
+Measles,Dadra & Nagar Haveli,2029,15135
+Measles,Daman & Diu,2020,0
+Measles,Daman & Diu,2021,0
+Measles,Daman & Diu,2022,0
+Measles,Daman & Diu,2023,0
+Measles,Daman & Diu,2024,0
+Measles,Daman & Diu,2025,0
+Measles,Daman & Diu,2026,0
+Measles,Daman & Diu,2027,0
+Measles,Daman & Diu,2028,0
+Measles,Daman & Diu,2029,0
+Measles,Delhi,2020,369210
+Measles,Delhi,2021,382348
+Measles,Delhi,2022,395487
+Measles,Delhi,2023,408625
+Measles,Delhi,2024,421764
+Measles,Delhi,2025,434902
+Measles,Delhi,2026,448041
+Measles,Delhi,2027,461180
+Measles,Delhi,2028,474318
+Measles,Delhi,2029,487457
+Measles,Lakshadweep,2020,0
+Measles,Lakshadweep,2021,0
+Measles,Lakshadweep,2022,0
+Measles,Lakshadweep,2023,0
+Measles,Lakshadweep,2024,0
+Measles,Lakshadweep,2025,0
+Measles,Lakshadweep,2026,0
+Measles,Lakshadweep,2027,0
+Measles,Lakshadweep,2028,0
+Measles,Lakshadweep,2029,0
+Measles,Puducherry,2020,0
+Measles,Puducherry,2021,0
+Measles,Puducherry,2022,0
+Measles,Puducherry,2023,0
+Measles,Puducherry,2024,0
+Measles,Puducherry,2025,0
+Measles,Puducherry,2026,0
+Measles,Puducherry,2027,0
+Measles,Puducherry,2028,0
+Measles,Puducherry,2029,0
+Polio,All India,2020,38157721
+Polio,All India,2021,41680702
+Polio,All India,2022,45203683
+Polio,All India,2023,48726664
+Polio,All India,2024,52249644
+Polio,All India,2025,55772625
+Polio,All India,2026,59295606
+Polio,All India,2027,62818587
+Polio,All India,2028,66341568
+Polio,All India,2029,69864549
+Polio,Arunachal Pradesh,2020,0
+Polio,Arunachal Pradesh,2021,0
+Polio,Arunachal Pradesh,2022,0
+Polio,Arunachal Pradesh,2023,0
+Polio,Arunachal Pradesh,2024,0
+Polio,Arunachal Pradesh,2025,0
+Polio,Arunachal Pradesh,2026,0
+Polio,Arunachal Pradesh,2027,0
+Polio,Arunachal Pradesh,2028,0
+Polio,Arunachal Pradesh,2029,0
+Polio,Assam,2020,873098
+Polio,Assam,2021,949561
+Polio,Assam,2022,1026024
+Polio,Assam,2023,1102487
+Polio,Assam,2024,1178950
+Polio,Assam,2025,1255413
+Polio,Assam,2026,1331876
+Polio,Assam,2027,1408339
+Polio,Assam,2028,1484802
+Polio,Assam,2029,1561265
+Polio,Manipur,2020,38158
+Polio,Manipur,2021,35794
+Polio,Manipur,2022,33430
+Polio,Manipur,2023,31065
+Polio,Manipur,2024,28701
+Polio,Manipur,2025,26337
+Polio,Manipur,2026,23973
+Polio,Manipur,2027,21609
+Polio,Manipur,2028,19245
+Polio,Manipur,2029,16881
+Polio,Meghalaya,2020,90350
+Polio,Meghalaya,2021,96281
+Polio,Meghalaya,2022,102213
+Polio,Meghalaya,2023,108144
+Polio,Meghalaya,2024,114075
+Polio,Meghalaya,2025,120006
+Polio,Meghalaya,2026,125937
+Polio,Meghalaya,2027,131869
+Polio,Meghalaya,2028,137800
+Polio,Meghalaya,2029,143731
+Polio,Mizoram,2020,10344
+Polio,Mizoram,2021,8095
+Polio,Mizoram,2022,5845
+Polio,Mizoram,2023,3596
+Polio,Mizoram,2024,1347
+Polio,Mizoram,2025,0
+Polio,Mizoram,2026,0
+Polio,Mizoram,2027,0
+Polio,Mizoram,2028,0
+Polio,Mizoram,2029,0
+Polio,Nagaland,2020,36978
+Polio,Nagaland,2021,38935
+Polio,Nagaland,2022,40892
+Polio,Nagaland,2023,42848
+Polio,Nagaland,2024,44805
+Polio,Nagaland,2025,46762
+Polio,Nagaland,2026,48718
+Polio,Nagaland,2027,50675
+Polio,Nagaland,2028,52632
+Polio,Nagaland,2029,54589
+Polio,Sikkim,2020,0
+Polio,Sikkim,2021,0
+Polio,Sikkim,2022,0
+Polio,Sikkim,2023,0
+Polio,Sikkim,2024,0
+Polio,Sikkim,2025,0
+Polio,Sikkim,2026,0
+Polio,Sikkim,2027,0
+Polio,Sikkim,2028,0
+Polio,Sikkim,2029,0
+Polio,Tripura,2020,0
+Polio,Tripura,2021,0
+Polio,Tripura,2022,0
+Polio,Tripura,2023,0
+Polio,Tripura,2024,0
+Polio,Tripura,2025,0
+Polio,Tripura,2026,0
+Polio,Tripura,2027,0
+Polio,Tripura,2028,0
+Polio,Tripura,2029,0
+Polio,Bihar,2020,3641159
+Polio,Bihar,2021,3915141
+Polio,Bihar,2022,4189123
+Polio,Bihar,2023,4463104
+Polio,Bihar,2024,4737086
+Polio,Bihar,2025,5011067
+Polio,Bihar,2026,5285049
+Polio,Bihar,2027,5559030
+Polio,Bihar,2028,5833012
+Polio,Bihar,2029,6106994
+Polio,Chhattisgarh,2020,790535
+Polio,Chhattisgarh,2021,853458
+Polio,Chhattisgarh,2022,916380
+Polio,Chhattisgarh,2023,979303
+Polio,Chhattisgarh,2024,1042225
+Polio,Chhattisgarh,2025,1105147
+Polio,Chhattisgarh,2026,1168070
+Polio,Chhattisgarh,2027,1230992
+Polio,Chhattisgarh,2028,1293915
+Polio,Chhattisgarh,2029,1356837
+Polio,Himachal Pradesh,2020,80733
+Polio,Himachal Pradesh,2021,68328
+Polio,Himachal Pradesh,2022,55923
+Polio,Himachal Pradesh,2023,43518
+Polio,Himachal Pradesh,2024,31113
+Polio,Himachal Pradesh,2025,18708
+Polio,Himachal Pradesh,2026,6303
+Polio,Himachal Pradesh,2027,0
+Polio,Himachal Pradesh,2028,0
+Polio,Himachal Pradesh,2029,0
+Polio,Jammu & Kashmir,2020,321
+Polio,Jammu & Kashmir,2021,0
+Polio,Jammu & Kashmir,2022,0
+Polio,Jammu & Kashmir,2023,0
+Polio,Jammu & Kashmir,2024,0
+Polio,Jammu & Kashmir,2025,0
+Polio,Jammu & Kashmir,2026,0
+Polio,Jammu & Kashmir,2027,0
+Polio,Jammu & Kashmir,2028,0
+Polio,Jammu & Kashmir,2029,0
+Polio,Jharkhand,2020,459205
+Polio,Jharkhand,2021,320734
+Polio,Jharkhand,2022,182263
+Polio,Jharkhand,2023,43792
+Polio,Jharkhand,2024,0
+Polio,Jharkhand,2025,0
+Polio,Jharkhand,2026,0
+Polio,Jharkhand,2027,0
+Polio,Jharkhand,2028,0
+Polio,Jharkhand,2029,0
+Polio,Madhya Pradesh,2020,2342541
+Polio,Madhya Pradesh,2021,2475706
+Polio,Madhya Pradesh,2022,2608871
+Polio,Madhya Pradesh,2023,2742036
+Polio,Madhya Pradesh,2024,2875201
+Polio,Madhya Pradesh,2025,3008366
+Polio,Madhya Pradesh,2026,3141531
+Polio,Madhya Pradesh,2027,3274695
+Polio,Madhya Pradesh,2028,3407860
+Polio,Madhya Pradesh,2029,3541025
+Polio,Odisha,2020,473883
+Polio,Odisha,2021,363852
+Polio,Odisha,2022,253821
+Polio,Odisha,2023,143790
+Polio,Odisha,2024,33759
+Polio,Odisha,2025,0
+Polio,Odisha,2026,0
+Polio,Odisha,2027,0
+Polio,Odisha,2028,0
+Polio,Odisha,2029,0
+Polio,Rajasthan,2020,123966
+Polio,Rajasthan,2021,0
+Polio,Rajasthan,2022,0
+Polio,Rajasthan,2023,0
+Polio,Rajasthan,2024,0
+Polio,Rajasthan,2025,0
+Polio,Rajasthan,2026,0
+Polio,Rajasthan,2027,0
+Polio,Rajasthan,2028,0
+Polio,Rajasthan,2029,0
+Polio,Uttar Pradesh,2020,7299148
+Polio,Uttar Pradesh,2021,7936441
+Polio,Uttar Pradesh,2022,8573733
+Polio,Uttar Pradesh,2023,9211026
+Polio,Uttar Pradesh,2024,9848318
+Polio,Uttar Pradesh,2025,10485610
+Polio,Uttar Pradesh,2026,11122903
+Polio,Uttar Pradesh,2027,11760195
+Polio,Uttar Pradesh,2028,12397488
+Polio,Uttar Pradesh,2029,13034780
+Polio,Uttarakhand,2020,0
+Polio,Uttarakhand,2021,0
+Polio,Uttarakhand,2022,0
+Polio,Uttarakhand,2023,0
+Polio,Uttarakhand,2024,0
+Polio,Uttarakhand,2025,0
+Polio,Uttarakhand,2026,0
+Polio,Uttarakhand,2027,0
+Polio,Uttarakhand,2028,0
+Polio,Uttarakhand,2029,0
+Polio,Andhra Pradesh Old,2020,20169
+Polio,Andhra Pradesh Old,2021,19998
+Polio,Andhra Pradesh Old,2022,19828
+Polio,Andhra Pradesh Old,2023,19657
+Polio,Andhra Pradesh Old,2024,19487
+Polio,Andhra Pradesh Old,2025,19316
+Polio,Andhra Pradesh Old,2026,19146
+Polio,Andhra Pradesh Old,2027,18975
+Polio,Andhra Pradesh Old,2028,18805
+Polio,Andhra Pradesh Old,2029,18635
+Polio,Goa,2020,655562
+Polio,Goa,2021,588000
+Polio,Goa,2022,520438
+Polio,Goa,2023,452875
+Polio,Goa,2024,385313
+Polio,Goa,2025,317751
+Polio,Goa,2026,250188
+Polio,Goa,2027,182626
+Polio,Goa,2028,115064
+Polio,Goa,2029,47501
+Polio,Gujarat,2020,563503
+Polio,Gujarat,2021,565806
+Polio,Gujarat,2022,568109
+Polio,Gujarat,2023,570412
+Polio,Gujarat,2024,572716
+Polio,Gujarat,2025,575019
+Polio,Gujarat,2026,577322
+Polio,Gujarat,2027,579625
+Polio,Gujarat,2028,581929
+Polio,Gujarat,2029,584232
+Polio,Haryana,2020,933139
+Polio,Haryana,2021,913060
+Polio,Haryana,2022,892980
+Polio,Haryana,2023,872901
+Polio,Haryana,2024,852822
+Polio,Haryana,2025,832742
+Polio,Haryana,2026,812663
+Polio,Haryana,2027,792583
+Polio,Haryana,2028,772504
+Polio,Haryana,2029,752425
+Polio,Karnataka,2020,809001
+Polio,Karnataka,2021,842666
+Polio,Karnataka,2022,876332
+Polio,Karnataka,2023,909997
+Polio,Karnataka,2024,943663
+Polio,Karnataka,2025,977328
+Polio,Karnataka,2026,1010994
+Polio,Karnataka,2027,1044659
+Polio,Karnataka,2028,1078325
+Polio,Karnataka,2029,1111990
+Polio,Kerala,2020,1339129
+Polio,Kerala,2021,1272620
+Polio,Kerala,2022,1206112
+Polio,Kerala,2023,1139603
+Polio,Kerala,2024,1073094
+Polio,Kerala,2025,1006586
+Polio,Kerala,2026,940077
+Polio,Kerala,2027,873568
+Polio,Kerala,2028,807060
+Polio,Kerala,2029,740551
+Polio,Maharashtra,2020,430961
+Polio,Maharashtra,2021,429379
+Polio,Maharashtra,2022,427797
+Polio,Maharashtra,2023,426215
+Polio,Maharashtra,2024,424632
+Polio,Maharashtra,2025,423050
+Polio,Maharashtra,2026,421468
+Polio,Maharashtra,2027,419886
+Polio,Maharashtra,2028,418304
+Polio,Maharashtra,2029,416722
+Polio,Punjab,2020,860932
+Polio,Punjab,2021,838491
+Polio,Punjab,2022,816049
+Polio,Punjab,2023,793607
+Polio,Punjab,2024,771165
+Polio,Punjab,2025,748724
+Polio,Punjab,2026,726282
+Polio,Punjab,2027,703840
+Polio,Punjab,2028,681399
+Polio,Punjab,2029,658957
+Polio,Tamil Nadu,2020,1424338
+Polio,Tamil Nadu,2021,1418710
+Polio,Tamil Nadu,2022,1413082
+Polio,Tamil Nadu,2023,1407454
+Polio,Tamil Nadu,2024,1401826
+Polio,Tamil Nadu,2025,1396198
+Polio,Tamil Nadu,2026,1390570
+Polio,Tamil Nadu,2027,1384942
+Polio,Tamil Nadu,2028,1379314
+Polio,Tamil Nadu,2029,1373686
+Polio,West Bengal,2020,4601
+Polio,West Bengal,2021,4346
+Polio,West Bengal,2022,4090
+Polio,West Bengal,2023,3834
+Polio,West Bengal,2024,3579
+Polio,West Bengal,2025,3323
+Polio,West Bengal,2026,3067
+Polio,West Bengal,2027,2811
+Polio,West Bengal,2028,2556
+Polio,West Bengal,2029,2300
+Polio,A & N Islands,2020,13203
+Polio,A & N Islands,2021,12463
+Polio,A & N Islands,2022,11723
+Polio,A & N Islands,2023,10982
+Polio,A & N Islands,2024,10242
+Polio,A & N Islands,2025,9502
+Polio,A & N Islands,2026,8762
+Polio,A & N Islands,2027,8022
+Polio,A & N Islands,2028,7282
+Polio,A & N Islands,2029,6542
+Polio,Chandigarh,2020,15077
+Polio,Chandigarh,2021,15700
+Polio,Chandigarh,2022,16322
+Polio,Chandigarh,2023,16944
+Polio,Chandigarh,2024,17566
+Polio,Chandigarh,2025,18188
+Polio,Chandigarh,2026,18810
+Polio,Chandigarh,2027,19432
+Polio,Chandigarh,2028,20055
+Polio,Chandigarh,2029,20677
+Polio,Dadra & Nagar Haveli,2020,8014
+Polio,Dadra & Nagar Haveli,2021,8420
+Polio,Dadra & Nagar Haveli,2022,8826
+Polio,Dadra & Nagar Haveli,2023,9233
+Polio,Dadra & Nagar Haveli,2024,9639
+Polio,Dadra & Nagar Haveli,2025,10045
+Polio,Dadra & Nagar Haveli,2026,10451
+Polio,Dadra & Nagar Haveli,2027,10858
+Polio,Dadra & Nagar Haveli,2028,11264
+Polio,Dadra & Nagar Haveli,2029,11670
+Polio,Daman & Diu,2020,201554
+Polio,Daman & Diu,2021,190188
+Polio,Daman & Diu,2022,178822
+Polio,Daman & Diu,2023,167457
+Polio,Daman & Diu,2024,156091
+Polio,Daman & Diu,2025,144726
+Polio,Daman & Diu,2026,133360
+Polio,Daman & Diu,2027,121995
+Polio,Daman & Diu,2028,110629
+Polio,Daman & Diu,2029,99263
+Polio,Delhi,2020,167413
+Polio,Delhi,2021,184229
+Polio,Delhi,2022,201045
+Polio,Delhi,2023,217861
+Polio,Delhi,2024,234677
+Polio,Delhi,2025,251492
+Polio,Delhi,2026,268308
+Polio,Delhi,2027,285124
+Polio,Delhi,2028,301940
+Polio,Delhi,2029,318756
+Polio,Puducherry,2020,0
+Polio,Puducherry,2021,0
+Polio,Puducherry,2022,0
+Polio,Puducherry,2023,0
+Polio,Puducherry,2024,0
+Polio,Puducherry,2025,0
+Polio,Puducherry,2026,0
+Polio,Puducherry,2027,0
+Polio,Puducherry,2028,0
+Polio,Puducherry,2029,0
+Children more than 10 years given TT10,All India,2020,40121532
+Children more than 10 years given TT10,All India,2021,43243668
+Children more than 10 years given TT10,All India,2022,46365805
+Children more than 10 years given TT10,All India,2023,49487941
+Children more than 10 years given TT10,All India,2024,52610077
+Children more than 10 years given TT10,All India,2025,55732214
+Children more than 10 years given TT10,All India,2026,58854350
+Children more than 10 years given TT10,All India,2027,61976486
+Children more than 10 years given TT10,All India,2028,65098623
+Children more than 10 years given TT10,All India,2029,68220759
+Children more than 10 years given TT10,Arunachal Pradesh,2020,0
+Children more than 10 years given TT10,Arunachal Pradesh,2021,0
+Children more than 10 years given TT10,Arunachal Pradesh,2022,0
+Children more than 10 years given TT10,Arunachal Pradesh,2023,0
+Children more than 10 years given TT10,Arunachal Pradesh,2024,0
+Children more than 10 years given TT10,Arunachal Pradesh,2025,0
+Children more than 10 years given TT10,Arunachal Pradesh,2026,0
+Children more than 10 years given TT10,Arunachal Pradesh,2027,0
+Children more than 10 years given TT10,Arunachal Pradesh,2028,0
+Children more than 10 years given TT10,Arunachal Pradesh,2029,0
+Children more than 10 years given TT10,Assam,2020,1022017
+Children more than 10 years given TT10,Assam,2021,1100329
+Children more than 10 years given TT10,Assam,2022,1178640
+Children more than 10 years given TT10,Assam,2023,1256951
+Children more than 10 years given TT10,Assam,2024,1335262
+Children more than 10 years given TT10,Assam,2025,1413574
+Children more than 10 years given TT10,Assam,2026,1491885
+Children more than 10 years given TT10,Assam,2027,1570196
+Children more than 10 years given TT10,Assam,2028,1648508
+Children more than 10 years given TT10,Assam,2029,1726819
+Children more than 10 years given TT10,Manipur,2020,39302
+Children more than 10 years given TT10,Manipur,2021,38244
+Children more than 10 years given TT10,Manipur,2022,37186
+Children more than 10 years given TT10,Manipur,2023,36128
+Children more than 10 years given TT10,Manipur,2024,35070
+Children more than 10 years given TT10,Manipur,2025,34012
+Children more than 10 years given TT10,Manipur,2026,32954
+Children more than 10 years given TT10,Manipur,2027,31895
+Children more than 10 years given TT10,Manipur,2028,30837
+Children more than 10 years given TT10,Manipur,2029,29779
+Children more than 10 years given TT10,Meghalaya,2020,92180
+Children more than 10 years given TT10,Meghalaya,2021,97756
+Children more than 10 years given TT10,Meghalaya,2022,103332
+Children more than 10 years given TT10,Meghalaya,2023,108908
+Children more than 10 years given TT10,Meghalaya,2024,114484
+Children more than 10 years given TT10,Meghalaya,2025,120060
+Children more than 10 years given TT10,Meghalaya,2026,125635
+Children more than 10 years given TT10,Meghalaya,2027,131211
+Children more than 10 years given TT10,Meghalaya,2028,136787
+Children more than 10 years given TT10,Meghalaya,2029,142363
+Children more than 10 years given TT10,Mizoram,2020,11456
+Children more than 10 years given TT10,Mizoram,2021,9502
+Children more than 10 years given TT10,Mizoram,2022,7548
+Children more than 10 years given TT10,Mizoram,2023,5594
+Children more than 10 years given TT10,Mizoram,2024,3640
+Children more than 10 years given TT10,Mizoram,2025,1686
+Children more than 10 years given TT10,Mizoram,2026,0
+Children more than 10 years given TT10,Mizoram,2027,0
+Children more than 10 years given TT10,Mizoram,2028,0
+Children more than 10 years given TT10,Mizoram,2029,0
+Children more than 10 years given TT10,Nagaland,2020,38050
+Children more than 10 years given TT10,Nagaland,2021,39978
+Children more than 10 years given TT10,Nagaland,2022,41906
+Children more than 10 years given TT10,Nagaland,2023,43835
+Children more than 10 years given TT10,Nagaland,2024,45763
+Children more than 10 years given TT10,Nagaland,2025,47692
+Children more than 10 years given TT10,Nagaland,2026,49620
+Children more than 10 years given TT10,Nagaland,2027,51549
+Children more than 10 years given TT10,Nagaland,2028,53477
+Children more than 10 years given TT10,Nagaland,2029,55406
+Children more than 10 years given TT10,Sikkim,2020,0
+Children more than 10 years given TT10,Sikkim,2021,0
+Children more than 10 years given TT10,Sikkim,2022,0
+Children more than 10 years given TT10,Sikkim,2023,0
+Children more than 10 years given TT10,Sikkim,2024,0
+Children more than 10 years given TT10,Sikkim,2025,0
+Children more than 10 years given TT10,Sikkim,2026,0
+Children more than 10 years given TT10,Sikkim,2027,0
+Children more than 10 years given TT10,Sikkim,2028,0
+Children more than 10 years given TT10,Sikkim,2029,0
+Children more than 10 years given TT10,Tripura,2020,0
+Children more than 10 years given TT10,Tripura,2021,0
+Children more than 10 years given TT10,Tripura,2022,0
+Children more than 10 years given TT10,Tripura,2023,0
+Children more than 10 years given TT10,Tripura,2024,0
+Children more than 10 years given TT10,Tripura,2025,0
+Children more than 10 years given TT10,Tripura,2026,0
+Children more than 10 years given TT10,Tripura,2027,0
+Children more than 10 years given TT10,Tripura,2028,0
+Children more than 10 years given TT10,Tripura,2029,0
+Children more than 10 years given TT10,Bihar,2020,3402101
+Children more than 10 years given TT10,Bihar,2021,3542658
+Children more than 10 years given TT10,Bihar,2022,3683214
+Children more than 10 years given TT10,Bihar,2023,3823770
+Children more than 10 years given TT10,Bihar,2024,3964326
+Children more than 10 years given TT10,Bihar,2025,4104883
+Children more than 10 years given TT10,Bihar,2026,4245439
+Children more than 10 years given TT10,Bihar,2027,4385995
+Children more than 10 years given TT10,Bihar,2028,4526552
+Children more than 10 years given TT10,Bihar,2029,4667108
+Children more than 10 years given TT10,Chhattisgarh,2020,790752
+Children more than 10 years given TT10,Chhattisgarh,2021,845693
+Children more than 10 years given TT10,Chhattisgarh,2022,900635
+Children more than 10 years given TT10,Chhattisgarh,2023,955576
+Children more than 10 years given TT10,Chhattisgarh,2024,1010517
+Children more than 10 years given TT10,Chhattisgarh,2025,1065459
+Children more than 10 years given TT10,Chhattisgarh,2026,1120400
+Children more than 10 years given TT10,Chhattisgarh,2027,1175342
+Children more than 10 years given TT10,Chhattisgarh,2028,1230283
+Children more than 10 years given TT10,Chhattisgarh,2029,1285224
+Children more than 10 years given TT10,Himachal Pradesh,2020,77565
+Children more than 10 years given TT10,Himachal Pradesh,2021,68605
+Children more than 10 years given TT10,Himachal Pradesh,2022,59645
+Children more than 10 years given TT10,Himachal Pradesh,2023,50685
+Children more than 10 years given TT10,Himachal Pradesh,2024,41725
+Children more than 10 years given TT10,Himachal Pradesh,2025,32765
+Children more than 10 years given TT10,Himachal Pradesh,2026,23805
+Children more than 10 years given TT10,Himachal Pradesh,2027,14845
+Children more than 10 years given TT10,Himachal Pradesh,2028,5885
+Children more than 10 years given TT10,Himachal Pradesh,2029,0
+Children more than 10 years given TT10,Jammu & Kashmir,2020,36356
+Children more than 10 years given TT10,Jammu & Kashmir,2021,0
+Children more than 10 years given TT10,Jammu & Kashmir,2022,0
+Children more than 10 years given TT10,Jammu & Kashmir,2023,0
+Children more than 10 years given TT10,Jammu & Kashmir,2024,0
+Children more than 10 years given TT10,Jammu & Kashmir,2025,0
+Children more than 10 years given TT10,Jammu & Kashmir,2026,0
+Children more than 10 years given TT10,Jammu & Kashmir,2027,0
+Children more than 10 years given TT10,Jammu & Kashmir,2028,0
+Children more than 10 years given TT10,Jammu & Kashmir,2029,0
+Children more than 10 years given TT10,Jharkhand,2020,559447
+Children more than 10 years given TT10,Jharkhand,2021,497829
+Children more than 10 years given TT10,Jharkhand,2022,436211
+Children more than 10 years given TT10,Jharkhand,2023,374592
+Children more than 10 years given TT10,Jharkhand,2024,312974
+Children more than 10 years given TT10,Jharkhand,2025,251356
+Children more than 10 years given TT10,Jharkhand,2026,189738
+Children more than 10 years given TT10,Jharkhand,2027,128119
+Children more than 10 years given TT10,Jharkhand,2028,66501
+Children more than 10 years given TT10,Jharkhand,2029,4883
+Children more than 10 years given TT10,Madhya Pradesh,2020,2151769
+Children more than 10 years given TT10,Madhya Pradesh,2021,2218648
+Children more than 10 years given TT10,Madhya Pradesh,2022,2285527
+Children more than 10 years given TT10,Madhya Pradesh,2023,2352406
+Children more than 10 years given TT10,Madhya Pradesh,2024,2419285
+Children more than 10 years given TT10,Madhya Pradesh,2025,2486164
+Children more than 10 years given TT10,Madhya Pradesh,2026,2553043
+Children more than 10 years given TT10,Madhya Pradesh,2027,2619922
+Children more than 10 years given TT10,Madhya Pradesh,2028,2686801
+Children more than 10 years given TT10,Madhya Pradesh,2029,2753680
+Children more than 10 years given TT10,Odisha,2020,486036
+Children more than 10 years given TT10,Odisha,2021,384789
+Children more than 10 years given TT10,Odisha,2022,283541
+Children more than 10 years given TT10,Odisha,2023,182294
+Children more than 10 years given TT10,Odisha,2024,81047
+Children more than 10 years given TT10,Odisha,2025,0
+Children more than 10 years given TT10,Odisha,2026,0
+Children more than 10 years given TT10,Odisha,2027,0
+Children more than 10 years given TT10,Odisha,2028,0
+Children more than 10 years given TT10,Odisha,2029,0
+Children more than 10 years given TT10,Rajasthan,2020,285266
+Children more than 10 years given TT10,Rajasthan,2021,0
+Children more than 10 years given TT10,Rajasthan,2022,0
+Children more than 10 years given TT10,Rajasthan,2023,0
+Children more than 10 years given TT10,Rajasthan,2024,0
+Children more than 10 years given TT10,Rajasthan,2025,0
+Children more than 10 years given TT10,Rajasthan,2026,0
+Children more than 10 years given TT10,Rajasthan,2027,0
+Children more than 10 years given TT10,Rajasthan,2028,0
+Children more than 10 years given TT10,Rajasthan,2029,0
+Children more than 10 years given TT10,Uttar Pradesh,2020,8383326
+Children more than 10 years given TT10,Uttar Pradesh,2021,9037843
+Children more than 10 years given TT10,Uttar Pradesh,2022,9692360
+Children more than 10 years given TT10,Uttar Pradesh,2023,10346876
+Children more than 10 years given TT10,Uttar Pradesh,2024,11001393
+Children more than 10 years given TT10,Uttar Pradesh,2025,11655910
+Children more than 10 years given TT10,Uttar Pradesh,2026,12310426
+Children more than 10 years given TT10,Uttar Pradesh,2027,12964943
+Children more than 10 years given TT10,Uttar Pradesh,2028,13619459
+Children more than 10 years given TT10,Uttar Pradesh,2029,14273976
+Children more than 10 years given TT10,Uttarakhand,2020,0
+Children more than 10 years given TT10,Uttarakhand,2021,0
+Children more than 10 years given TT10,Uttarakhand,2022,0
+Children more than 10 years given TT10,Uttarakhand,2023,0
+Children more than 10 years given TT10,Uttarakhand,2024,0
+Children more than 10 years given TT10,Uttarakhand,2025,0
+Children more than 10 years given TT10,Uttarakhand,2026,0
+Children more than 10 years given TT10,Uttarakhand,2027,0
+Children more than 10 years given TT10,Uttarakhand,2028,0
+Children more than 10 years given TT10,Uttarakhand,2029,0
+Children more than 10 years given TT10,Andhra Pradesh Old,2020,151362
+Children more than 10 years given TT10,Andhra Pradesh Old,2021,129068
+Children more than 10 years given TT10,Andhra Pradesh Old,2022,106775
+Children more than 10 years given TT10,Andhra Pradesh Old,2023,84481
+Children more than 10 years given TT10,Andhra Pradesh Old,2024,62187
+Children more than 10 years given TT10,Andhra Pradesh Old,2025,39893
+Children more than 10 years given TT10,Andhra Pradesh Old,2026,17600
+Children more than 10 years given TT10,Andhra Pradesh Old,2027,0
+Children more than 10 years given TT10,Andhra Pradesh Old,2028,0
+Children more than 10 years given TT10,Andhra Pradesh Old,2029,0
+Children more than 10 years given TT10,Goa,2020,600127
+Children more than 10 years given TT10,Goa,2021,524511
+Children more than 10 years given TT10,Goa,2022,448894
+Children more than 10 years given TT10,Goa,2023,373277
+Children more than 10 years given TT10,Goa,2024,297661
+Children more than 10 years given TT10,Goa,2025,222044
+Children more than 10 years given TT10,Goa,2026,146427
+Children more than 10 years given TT10,Goa,2027,70811
+Children more than 10 years given TT10,Goa,2028,0
+Children more than 10 years given TT10,Goa,2029,0
+Children more than 10 years given TT10,Gujarat,2020,975145
+Children more than 10 years given TT10,Gujarat,2021,1025594
+Children more than 10 years given TT10,Gujarat,2022,1076043
+Children more than 10 years given TT10,Gujarat,2023,1126491
+Children more than 10 years given TT10,Gujarat,2024,1176940
+Children more than 10 years given TT10,Gujarat,2025,1227389
+Children more than 10 years given TT10,Gujarat,2026,1277837
+Children more than 10 years given TT10,Gujarat,2027,1328286
+Children more than 10 years given TT10,Gujarat,2028,1378735
+Children more than 10 years given TT10,Gujarat,2029,1429183
+Children more than 10 years given TT10,Haryana,2020,548316
+Children more than 10 years given TT10,Haryana,2021,484272
+Children more than 10 years given TT10,Haryana,2022,420229
+Children more than 10 years given TT10,Haryana,2023,356185
+Children more than 10 years given TT10,Haryana,2024,292142
+Children more than 10 years given TT10,Haryana,2025,228098
+Children more than 10 years given TT10,Haryana,2026,164055
+Children more than 10 years given TT10,Haryana,2027,100012
+Children more than 10 years given TT10,Haryana,2028,35968
+Children more than 10 years given TT10,Haryana,2029,0
+Children more than 10 years given TT10,Karnataka,2020,1083116
+Children more than 10 years given TT10,Karnataka,2021,1143754
+Children more than 10 years given TT10,Karnataka,2022,1204392
+Children more than 10 years given TT10,Karnataka,2023,1265030
+Children more than 10 years given TT10,Karnataka,2024,1325668
+Children more than 10 years given TT10,Karnataka,2025,1386306
+Children more than 10 years given TT10,Karnataka,2026,1446945
+Children more than 10 years given TT10,Karnataka,2027,1507583
+Children more than 10 years given TT10,Karnataka,2028,1568221
+Children more than 10 years given TT10,Karnataka,2029,1628859
+Children more than 10 years given TT10,Kerala,2020,691470
+Children more than 10 years given TT10,Kerala,2021,559135
+Children more than 10 years given TT10,Kerala,2022,426799
+Children more than 10 years given TT10,Kerala,2023,294464
+Children more than 10 years given TT10,Kerala,2024,162129
+Children more than 10 years given TT10,Kerala,2025,29793
+Children more than 10 years given TT10,Kerala,2026,0
+Children more than 10 years given TT10,Kerala,2027,0
+Children more than 10 years given TT10,Kerala,2028,0
+Children more than 10 years given TT10,Kerala,2029,0
+Children more than 10 years given TT10,Maharashtra,2020,1775532
+Children more than 10 years given TT10,Maharashtra,2021,1913904
+Children more than 10 years given TT10,Maharashtra,2022,2052276
+Children more than 10 years given TT10,Maharashtra,2023,2190648
+Children more than 10 years given TT10,Maharashtra,2024,2329020
+Children more than 10 years given TT10,Maharashtra,2025,2467391
+Children more than 10 years given TT10,Maharashtra,2026,2605763
+Children more than 10 years given TT10,Maharashtra,2027,2744135
+Children more than 10 years given TT10,Maharashtra,2028,2882507
+Children more than 10 years given TT10,Maharashtra,2029,3020879
+Children more than 10 years given TT10,Punjab,2020,436602
+Children more than 10 years given TT10,Punjab,2021,362192
+Children more than 10 years given TT10,Punjab,2022,287783
+Children more than 10 years given TT10,Punjab,2023,213373
+Children more than 10 years given TT10,Punjab,2024,138964
+Children more than 10 years given TT10,Punjab,2025,64554
+Children more than 10 years given TT10,Punjab,2026,0
+Children more than 10 years given TT10,Punjab,2027,0
+Children more than 10 years given TT10,Punjab,2028,0
+Children more than 10 years given TT10,Punjab,2029,0
+Children more than 10 years given TT10,Tamil Nadu,2020,1113474
+Children more than 10 years given TT10,Tamil Nadu,2021,1074617
+Children more than 10 years given TT10,Tamil Nadu,2022,1035760
+Children more than 10 years given TT10,Tamil Nadu,2023,996903
+Children more than 10 years given TT10,Tamil Nadu,2024,958046
+Children more than 10 years given TT10,Tamil Nadu,2025,919189
+Children more than 10 years given TT10,Tamil Nadu,2026,880332
+Children more than 10 years given TT10,Tamil Nadu,2027,841475
+Children more than 10 years given TT10,Tamil Nadu,2028,802618
+Children more than 10 years given TT10,Tamil Nadu,2029,763761
+Children more than 10 years given TT10,West Bengal,2020,1229931
+Children more than 10 years given TT10,West Bengal,2021,1369707
+Children more than 10 years given TT10,West Bengal,2022,1509483
+Children more than 10 years given TT10,West Bengal,2023,1649259
+Children more than 10 years given TT10,West Bengal,2024,1789035
+Children more than 10 years given TT10,West Bengal,2025,1928811
+Children more than 10 years given TT10,West Bengal,2026,2068587
+Children more than 10 years given TT10,West Bengal,2027,2208363
+Children more than 10 years given TT10,West Bengal,2028,2348139
+Children more than 10 years given TT10,West Bengal,2029,2487915
+Children more than 10 years given TT10,A & N Islands,2020,6753
+Children more than 10 years given TT10,A & N Islands,2021,5460
+Children more than 10 years given TT10,A & N Islands,2022,4168
+Children more than 10 years given TT10,A & N Islands,2023,2876
+Children more than 10 years given TT10,A & N Islands,2024,1583
+Children more than 10 years given TT10,A & N Islands,2025,291
+Children more than 10 years given TT10,A & N Islands,2026,0
+Children more than 10 years given TT10,A & N Islands,2027,0
+Children more than 10 years given TT10,A & N Islands,2028,0
+Children more than 10 years given TT10,A & N Islands,2029,0
+Children more than 10 years given TT10,Chandigarh,2020,18315
+Children more than 10 years given TT10,Chandigarh,2021,19334
+Children more than 10 years given TT10,Chandigarh,2022,20352
+Children more than 10 years given TT10,Chandigarh,2023,21371
+Children more than 10 years given TT10,Chandigarh,2024,22389
+Children more than 10 years given TT10,Chandigarh,2025,23408
+Children more than 10 years given TT10,Chandigarh,2026,24426
+Children more than 10 years given TT10,Chandigarh,2027,25445
+Children more than 10 years given TT10,Chandigarh,2028,26464
+Children more than 10 years given TT10,Chandigarh,2029,27482
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2020,9973
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2021,10558
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2022,11142
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2023,11727
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2024,12311
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2025,12895
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2026,13480
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2027,14064
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2028,14648
+Children more than 10 years given TT10,Dadra & Nagar Haveli,2029,15233
+Children more than 10 years given TT10,Daman & Diu,2020,67788
+Children more than 10 years given TT10,Daman & Diu,2021,40709
+Children more than 10 years given TT10,Daman & Diu,2022,13631
+Children more than 10 years given TT10,Daman & Diu,2023,0
+Children more than 10 years given TT10,Daman & Diu,2024,0
+Children more than 10 years given TT10,Daman & Diu,2025,0
+Children more than 10 years given TT10,Daman & Diu,2026,0
+Children more than 10 years given TT10,Daman & Diu,2027,0
+Children more than 10 years given TT10,Daman & Diu,2028,0
+Children more than 10 years given TT10,Daman & Diu,2029,0
+Children more than 10 years given TT10,Delhi,2020,305282
+Children more than 10 years given TT10,Delhi,2021,341680
+Children more than 10 years given TT10,Delhi,2022,378079
+Children more than 10 years given TT10,Delhi,2023,414477
+Children more than 10 years given TT10,Delhi,2024,450875
+Children more than 10 years given TT10,Delhi,2025,487274
+Children more than 10 years given TT10,Delhi,2026,523672
+Children more than 10 years given TT10,Delhi,2027,560071
+Children more than 10 years given TT10,Delhi,2028,596469
+Children more than 10 years given TT10,Delhi,2029,632867
+Children more than 10 years given TT10,Lakshadweep,2020,0
+Children more than 10 years given TT10,Lakshadweep,2021,0
+Children more than 10 years given TT10,Lakshadweep,2022,0
+Children more than 10 years given TT10,Lakshadweep,2023,0
+Children more than 10 years given TT10,Lakshadweep,2024,0
+Children more than 10 years given TT10,Lakshadweep,2025,0
+Children more than 10 years given TT10,Lakshadweep,2026,0
+Children more than 10 years given TT10,Lakshadweep,2027,0
+Children more than 10 years given TT10,Lakshadweep,2028,0
+Children more than 10 years given TT10,Lakshadweep,2029,0
+Children more than 16 years given TT16,All India,2020,32508000
+Children more than 16 years given TT16,All India,2021,33965007
+Children more than 16 years given TT16,All India,2022,35422014
+Children more than 16 years given TT16,All India,2023,36879021
+Children more than 16 years given TT16,All India,2024,38336029
+Children more than 16 years given TT16,All India,2025,39793036
+Children more than 16 years given TT16,All India,2026,41250043
+Children more than 16 years given TT16,All India,2027,42707050
+Children more than 16 years given TT16,All India,2028,44164057
+Children more than 16 years given TT16,All India,2029,45621064
+Children more than 16 years given TT16,Arunachal Pradesh,2020,0
+Children more than 16 years given TT16,Arunachal Pradesh,2021,0
+Children more than 16 years given TT16,Arunachal Pradesh,2022,0
+Children more than 16 years given TT16,Arunachal Pradesh,2023,0
+Children more than 16 years given TT16,Arunachal Pradesh,2024,0
+Children more than 16 years given TT16,Arunachal Pradesh,2025,0
+Children more than 16 years given TT16,Arunachal Pradesh,2026,0
+Children more than 16 years given TT16,Arunachal Pradesh,2027,0
+Children more than 16 years given TT16,Arunachal Pradesh,2028,0
+Children more than 16 years given TT16,Arunachal Pradesh,2029,0
+Children more than 16 years given TT16,Assam,2020,705781
+Children more than 16 years given TT16,Assam,2021,708690
+Children more than 16 years given TT16,Assam,2022,711598
+Children more than 16 years given TT16,Assam,2023,714506
+Children more than 16 years given TT16,Assam,2024,717415
+Children more than 16 years given TT16,Assam,2025,720323
+Children more than 16 years given TT16,Assam,2026,723232
+Children more than 16 years given TT16,Assam,2027,726140
+Children more than 16 years given TT16,Assam,2028,729048
+Children more than 16 years given TT16,Assam,2029,731957
+Children more than 16 years given TT16,Manipur,2020,43594
+Children more than 16 years given TT16,Manipur,2021,43458
+Children more than 16 years given TT16,Manipur,2022,43321
+Children more than 16 years given TT16,Manipur,2023,43185
+Children more than 16 years given TT16,Manipur,2024,43049
+Children more than 16 years given TT16,Manipur,2025,42912
+Children more than 16 years given TT16,Manipur,2026,42776
+Children more than 16 years given TT16,Manipur,2027,42639
+Children more than 16 years given TT16,Manipur,2028,42503
+Children more than 16 years given TT16,Manipur,2029,42367
+Children more than 16 years given TT16,Meghalaya,2020,81881
+Children more than 16 years given TT16,Meghalaya,2021,84862
+Children more than 16 years given TT16,Meghalaya,2022,87842
+Children more than 16 years given TT16,Meghalaya,2023,90823
+Children more than 16 years given TT16,Meghalaya,2024,93804
+Children more than 16 years given TT16,Meghalaya,2025,96785
+Children more than 16 years given TT16,Meghalaya,2026,99765
+Children more than 16 years given TT16,Meghalaya,2027,102746
+Children more than 16 years given TT16,Meghalaya,2028,105727
+Children more than 16 years given TT16,Meghalaya,2029,108708
+Children more than 16 years given TT16,Mizoram,2020,14137
+Children more than 16 years given TT16,Mizoram,2021,13289
+Children more than 16 years given TT16,Mizoram,2022,12442
+Children more than 16 years given TT16,Mizoram,2023,11594
+Children more than 16 years given TT16,Mizoram,2024,10746
+Children more than 16 years given TT16,Mizoram,2025,9899
+Children more than 16 years given TT16,Mizoram,2026,9051
+Children more than 16 years given TT16,Mizoram,2027,8203
+Children more than 16 years given TT16,Mizoram,2028,7356
+Children more than 16 years given TT16,Mizoram,2029,6508
+Children more than 16 years given TT16,Nagaland,2020,33384
+Children more than 16 years given TT16,Nagaland,2021,34067
+Children more than 16 years given TT16,Nagaland,2022,34749
+Children more than 16 years given TT16,Nagaland,2023,35431
+Children more than 16 years given TT16,Nagaland,2024,36114
+Children more than 16 years given TT16,Nagaland,2025,36796
+Children more than 16 years given TT16,Nagaland,2026,37478
+Children more than 16 years given TT16,Nagaland,2027,38161
+Children more than 16 years given TT16,Nagaland,2028,38843
+Children more than 16 years given TT16,Nagaland,2029,39526
+Children more than 16 years given TT16,Sikkim,2020,913
+Children more than 16 years given TT16,Sikkim,2021,0
+Children more than 16 years given TT16,Sikkim,2022,0
+Children more than 16 years given TT16,Sikkim,2023,0
+Children more than 16 years given TT16,Sikkim,2024,0
+Children more than 16 years given TT16,Sikkim,2025,0
+Children more than 16 years given TT16,Sikkim,2026,0
+Children more than 16 years given TT16,Sikkim,2027,0
+Children more than 16 years given TT16,Sikkim,2028,0
+Children more than 16 years given TT16,Sikkim,2029,0
+Children more than 16 years given TT16,Tripura,2020,0
+Children more than 16 years given TT16,Tripura,2021,0
+Children more than 16 years given TT16,Tripura,2022,0
+Children more than 16 years given TT16,Tripura,2023,0
+Children more than 16 years given TT16,Tripura,2024,0
+Children more than 16 years given TT16,Tripura,2025,0
+Children more than 16 years given TT16,Tripura,2026,0
+Children more than 16 years given TT16,Tripura,2027,0
+Children more than 16 years given TT16,Tripura,2028,0
+Children more than 16 years given TT16,Tripura,2029,0
+Children more than 16 years given TT16,Bihar,2020,3487227
+Children more than 16 years given TT16,Bihar,2021,3655970
+Children more than 16 years given TT16,Bihar,2022,3824713
+Children more than 16 years given TT16,Bihar,2023,3993456
+Children more than 16 years given TT16,Bihar,2024,4162199
+Children more than 16 years given TT16,Bihar,2025,4330942
+Children more than 16 years given TT16,Bihar,2026,4499686
+Children more than 16 years given TT16,Bihar,2027,4668429
+Children more than 16 years given TT16,Bihar,2028,4837172
+Children more than 16 years given TT16,Bihar,2029,5005915
+Children more than 16 years given TT16,Chhattisgarh,2020,624072
+Children more than 16 years given TT16,Chhattisgarh,2021,626673
+Children more than 16 years given TT16,Chhattisgarh,2022,629274
+Children more than 16 years given TT16,Chhattisgarh,2023,631875
+Children more than 16 years given TT16,Chhattisgarh,2024,634476
+Children more than 16 years given TT16,Chhattisgarh,2025,637077
+Children more than 16 years given TT16,Chhattisgarh,2026,639678
+Children more than 16 years given TT16,Chhattisgarh,2027,642280
+Children more than 16 years given TT16,Chhattisgarh,2028,644881
+Children more than 16 years given TT16,Chhattisgarh,2029,647482
+Children more than 16 years given TT16,Himachal Pradesh,2020,93703
+Children more than 16 years given TT16,Himachal Pradesh,2021,89298
+Children more than 16 years given TT16,Himachal Pradesh,2022,84893
+Children more than 16 years given TT16,Himachal Pradesh,2023,80488
+Children more than 16 years given TT16,Himachal Pradesh,2024,76083
+Children more than 16 years given TT16,Himachal Pradesh,2025,71678
+Children more than 16 years given TT16,Himachal Pradesh,2026,67273
+Children more than 16 years given TT16,Himachal Pradesh,2027,62868
+Children more than 16 years given TT16,Himachal Pradesh,2028,58463
+Children more than 16 years given TT16,Himachal Pradesh,2029,54058
+Children more than 16 years given TT16,Jammu & Kashmir,2020,213954
+Children more than 16 years given TT16,Jammu & Kashmir,2021,214083
+Children more than 16 years given TT16,Jammu & Kashmir,2022,214211
+Children more than 16 years given TT16,Jammu & Kashmir,2023,214340
+Children more than 16 years given TT16,Jammu & Kashmir,2024,214468
+Children more than 16 years given TT16,Jammu & Kashmir,2025,214597
+Children more than 16 years given TT16,Jammu & Kashmir,2026,214725
+Children more than 16 years given TT16,Jammu & Kashmir,2027,214853
+Children more than 16 years given TT16,Jammu & Kashmir,2028,214982
+Children more than 16 years given TT16,Jammu & Kashmir,2029,215110
+Children more than 16 years given TT16,Jharkhand,2020,618279
+Children more than 16 years given TT16,Jharkhand,2021,569183
+Children more than 16 years given TT16,Jharkhand,2022,520087
+Children more than 16 years given TT16,Jharkhand,2023,470991
+Children more than 16 years given TT16,Jharkhand,2024,421895
+Children more than 16 years given TT16,Jharkhand,2025,372799
+Children more than 16 years given TT16,Jharkhand,2026,323702
+Children more than 16 years given TT16,Jharkhand,2027,274606
+Children more than 16 years given TT16,Jharkhand,2028,225510
+Children more than 16 years given TT16,Jharkhand,2029,176414
+Children more than 16 years given TT16,Madhya Pradesh,2020,2146935
+Children more than 16 years given TT16,Madhya Pradesh,2021,2205494
+Children more than 16 years given TT16,Madhya Pradesh,2022,2264054
+Children more than 16 years given TT16,Madhya Pradesh,2023,2322613
+Children more than 16 years given TT16,Madhya Pradesh,2024,2381173
+Children more than 16 years given TT16,Madhya Pradesh,2025,2439732
+Children more than 16 years given TT16,Madhya Pradesh,2026,2498292
+Children more than 16 years given TT16,Madhya Pradesh,2027,2556851
+Children more than 16 years given TT16,Madhya Pradesh,2028,2615411
+Children more than 16 years given TT16,Madhya Pradesh,2029,2673970
+Children more than 16 years given TT16,Odisha,2020,634899
+Children more than 16 years given TT16,Odisha,2021,596032
+Children more than 16 years given TT16,Odisha,2022,557166
+Children more than 16 years given TT16,Odisha,2023,518299
+Children more than 16 years given TT16,Odisha,2024,479433
+Children more than 16 years given TT16,Odisha,2025,440566
+Children more than 16 years given TT16,Odisha,2026,401700
+Children more than 16 years given TT16,Odisha,2027,362834
+Children more than 16 years given TT16,Odisha,2028,323967
+Children more than 16 years given TT16,Odisha,2029,285101
+Children more than 16 years given TT16,Rajasthan,2020,942753
+Children more than 16 years given TT16,Rajasthan,2021,725360
+Children more than 16 years given TT16,Rajasthan,2022,507966
+Children more than 16 years given TT16,Rajasthan,2023,290572
+Children more than 16 years given TT16,Rajasthan,2024,73179
+Children more than 16 years given TT16,Rajasthan,2025,0
+Children more than 16 years given TT16,Rajasthan,2026,0
+Children more than 16 years given TT16,Rajasthan,2027,0
+Children more than 16 years given TT16,Rajasthan,2028,0
+Children more than 16 years given TT16,Rajasthan,2029,0
+Children more than 16 years given TT16,Uttar Pradesh,2020,5743959
+Children more than 16 years given TT16,Uttar Pradesh,2021,5787090
+Children more than 16 years given TT16,Uttar Pradesh,2022,5830220
+Children more than 16 years given TT16,Uttar Pradesh,2023,5873351
+Children more than 16 years given TT16,Uttar Pradesh,2024,5916481
+Children more than 16 years given TT16,Uttar Pradesh,2025,5959612
+Children more than 16 years given TT16,Uttar Pradesh,2026,6002742
+Children more than 16 years given TT16,Uttar Pradesh,2027,6045872
+Children more than 16 years given TT16,Uttar Pradesh,2028,6089003
+Children more than 16 years given TT16,Uttar Pradesh,2029,6132133
+Children more than 16 years given TT16,Uttarakhand,2020,0
+Children more than 16 years given TT16,Uttarakhand,2021,0
+Children more than 16 years given TT16,Uttarakhand,2022,0
+Children more than 16 years given TT16,Uttarakhand,2023,0
+Children more than 16 years given TT16,Uttarakhand,2024,0
+Children more than 16 years given TT16,Uttarakhand,2025,0
+Children more than 16 years given TT16,Uttarakhand,2026,0
+Children more than 16 years given TT16,Uttarakhand,2027,0
+Children more than 16 years given TT16,Uttarakhand,2028,0
+Children more than 16 years given TT16,Uttarakhand,2029,0
+Children more than 16 years given TT16,Andhra Pradesh Old,2020,1318842
+Children more than 16 years given TT16,Andhra Pradesh Old,2021,1373596
+Children more than 16 years given TT16,Andhra Pradesh Old,2022,1428350
+Children more than 16 years given TT16,Andhra Pradesh Old,2023,1483104
+Children more than 16 years given TT16,Andhra Pradesh Old,2024,1537858
+Children more than 16 years given TT16,Andhra Pradesh Old,2025,1592612
+Children more than 16 years given TT16,Andhra Pradesh Old,2026,1647366
+Children more than 16 years given TT16,Andhra Pradesh Old,2027,1702120
+Children more than 16 years given TT16,Andhra Pradesh Old,2028,1756875
+Children more than 16 years given TT16,Andhra Pradesh Old,2029,1811629
+Children more than 16 years given TT16,Goa,2020,0
+Children more than 16 years given TT16,Goa,2021,0
+Children more than 16 years given TT16,Goa,2022,0
+Children more than 16 years given TT16,Goa,2023,0
+Children more than 16 years given TT16,Goa,2024,0
+Children more than 16 years given TT16,Goa,2025,0
+Children more than 16 years given TT16,Goa,2026,0
+Children more than 16 years given TT16,Goa,2027,0
+Children more than 16 years given TT16,Goa,2028,0
+Children more than 16 years given TT16,Goa,2029,0
+Children more than 16 years given TT16,Gujarat,2020,1576255
+Children more than 16 years given TT16,Gujarat,2021,1684561
+Children more than 16 years given TT16,Gujarat,2022,1792868
+Children more than 16 years given TT16,Gujarat,2023,1901174
+Children more than 16 years given TT16,Gujarat,2024,2009481
+Children more than 16 years given TT16,Gujarat,2025,2117787
+Children more than 16 years given TT16,Gujarat,2026,2226094
+Children more than 16 years given TT16,Gujarat,2027,2334400
+Children more than 16 years given TT16,Gujarat,2028,2442707
+Children more than 16 years given TT16,Gujarat,2029,2551013
+Children more than 16 years given TT16,Haryana,2020,416110
+Children more than 16 years given TT16,Haryana,2021,347454
+Children more than 16 years given TT16,Haryana,2022,278797
+Children more than 16 years given TT16,Haryana,2023,210140
+Children more than 16 years given TT16,Haryana,2024,141483
+Children more than 16 years given TT16,Haryana,2025,72827
+Children more than 16 years given TT16,Haryana,2026,4170
+Children more than 16 years given TT16,Haryana,2027,0
+Children more than 16 years given TT16,Haryana,2028,0
+Children more than 16 years given TT16,Haryana,2029,0
+Children more than 16 years given TT16,Karnataka,2020,1317233
+Children more than 16 years given TT16,Karnataka,2021,1402087
+Children more than 16 years given TT16,Karnataka,2022,1486941
+Children more than 16 years given TT16,Karnataka,2023,1571795
+Children more than 16 years given TT16,Karnataka,2024,1656649
+Children more than 16 years given TT16,Karnataka,2025,1741503
+Children more than 16 years given TT16,Karnataka,2026,1826357
+Children more than 16 years given TT16,Karnataka,2027,1911211
+Children more than 16 years given TT16,Karnataka,2028,1996065
+Children more than 16 years given TT16,Karnataka,2029,2080920
+Children more than 16 years given TT16,Kerala,2020,242044
+Children more than 16 years given TT16,Kerala,2021,80189
+Children more than 16 years given TT16,Kerala,2022,0
+Children more than 16 years given TT16,Kerala,2023,0
+Children more than 16 years given TT16,Kerala,2024,0
+Children more than 16 years given TT16,Kerala,2025,0
+Children more than 16 years given TT16,Kerala,2026,0
+Children more than 16 years given TT16,Kerala,2027,0
+Children more than 16 years given TT16,Kerala,2028,0
+Children more than 16 years given TT16,Kerala,2029,0
+Children more than 16 years given TT16,Maharashtra,2020,2254625
+Children more than 16 years given TT16,Maharashtra,2021,2454561
+Children more than 16 years given TT16,Maharashtra,2022,2654498
+Children more than 16 years given TT16,Maharashtra,2023,2854435
+Children more than 16 years given TT16,Maharashtra,2024,3054371
+Children more than 16 years given TT16,Maharashtra,2025,3254308
+Children more than 16 years given TT16,Maharashtra,2026,3454245
+Children more than 16 years given TT16,Maharashtra,2027,3654181
+Children more than 16 years given TT16,Maharashtra,2028,3854118
+Children more than 16 years given TT16,Maharashtra,2029,4054055
+Children more than 16 years given TT16,Punjab,2020,342109
+Children more than 16 years given TT16,Punjab,2021,268839
+Children more than 16 years given TT16,Punjab,2022,195568
+Children more than 16 years given TT16,Punjab,2023,122298
+Children more than 16 years given TT16,Punjab,2024,49027
+Children more than 16 years given TT16,Punjab,2025,0
+Children more than 16 years given TT16,Punjab,2026,0
+Children more than 16 years given TT16,Punjab,2027,0
+Children more than 16 years given TT16,Punjab,2028,0
+Children more than 16 years given TT16,Punjab,2029,0
+Children more than 16 years given TT16,Tamil Nadu,2020,1085006
+Children more than 16 years given TT16,Tamil Nadu,2021,1045021
+Children more than 16 years given TT16,Tamil Nadu,2022,1005037
+Children more than 16 years given TT16,Tamil Nadu,2023,965052
+Children more than 16 years given TT16,Tamil Nadu,2024,925067
+Children more than 16 years given TT16,Tamil Nadu,2025,885082
+Children more than 16 years given TT16,Tamil Nadu,2026,845097
+Children more than 16 years given TT16,Tamil Nadu,2027,805113
+Children more than 16 years given TT16,Tamil Nadu,2028,765128
+Children more than 16 years given TT16,Tamil Nadu,2029,725143
+Children more than 16 years given TT16,West Bengal,2020,1980089
+Children more than 16 years given TT16,West Bengal,2021,2195142
+Children more than 16 years given TT16,West Bengal,2022,2410194
+Children more than 16 years given TT16,West Bengal,2023,2625246
+Children more than 16 years given TT16,West Bengal,2024,2840299
+Children more than 16 years given TT16,West Bengal,2025,3055351
+Children more than 16 years given TT16,West Bengal,2026,3270404
+Children more than 16 years given TT16,West Bengal,2027,3485456
+Children more than 16 years given TT16,West Bengal,2028,3700508
+Children more than 16 years given TT16,West Bengal,2029,3915561
+Children more than 16 years given TT16,A & N Islands,2020,2361
+Children more than 16 years given TT16,A & N Islands,2021,763
+Children more than 16 years given TT16,A & N Islands,2022,0
+Children more than 16 years given TT16,A & N Islands,2023,0
+Children more than 16 years given TT16,A & N Islands,2024,0
+Children more than 16 years given TT16,A & N Islands,2025,0
+Children more than 16 years given TT16,A & N Islands,2026,0
+Children more than 16 years given TT16,A & N Islands,2027,0
+Children more than 16 years given TT16,A & N Islands,2028,0
+Children more than 16 years given TT16,A & N Islands,2029,0
+Children more than 16 years given TT16,Chandigarh,2020,21922
+Children more than 16 years given TT16,Chandigarh,2021,23234
+Children more than 16 years given TT16,Chandigarh,2022,24547
+Children more than 16 years given TT16,Chandigarh,2023,25860
+Children more than 16 years given TT16,Chandigarh,2024,27173
+Children more than 16 years given TT16,Chandigarh,2025,28486
+Children more than 16 years given TT16,Chandigarh,2026,29799
+Children more than 16 years given TT16,Chandigarh,2027,31111
+Children more than 16 years given TT16,Chandigarh,2028,32424
+Children more than 16 years given TT16,Chandigarh,2029,33737
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2020,11846
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2021,12578
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2022,13310
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2023,14042
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2024,14774
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2025,15507
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2026,16239
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2027,16971
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2028,17703
+Children more than 16 years given TT16,Dadra & Nagar Haveli,2029,18435
+Children more than 16 years given TT16,Daman & Diu,2020,0
+Children more than 16 years given TT16,Daman & Diu,2021,0
+Children more than 16 years given TT16,Daman & Diu,2022,0
+Children more than 16 years given TT16,Daman & Diu,2023,0
+Children more than 16 years given TT16,Daman & Diu,2024,0
+Children more than 16 years given TT16,Daman & Diu,2025,0
+Children more than 16 years given TT16,Daman & Diu,2026,0
+Children more than 16 years given TT16,Daman & Diu,2027,0
+Children more than 16 years given TT16,Daman & Diu,2028,0
+Children more than 16 years given TT16,Daman & Diu,2029,0
+Children more than 16 years given TT16,Delhi,2020,403331
+Children more than 16 years given TT16,Delhi,2021,442180
+Children more than 16 years given TT16,Delhi,2022,481028
+Children more than 16 years given TT16,Delhi,2023,519877
+Children more than 16 years given TT16,Delhi,2024,558725
+Children more than 16 years given TT16,Delhi,2025,597574
+Children more than 16 years given TT16,Delhi,2026,636422
+Children more than 16 years given TT16,Delhi,2027,675271
+Children more than 16 years given TT16,Delhi,2028,714119
+Children more than 16 years given TT16,Delhi,2029,752968
+Children more than 16 years given TT16,Lakshadweep,2020,5400
+Children more than 16 years given TT16,Lakshadweep,2021,3945
+Children more than 16 years given TT16,Lakshadweep,2022,2490
+Children more than 16 years given TT16,Lakshadweep,2023,1036
+Children more than 16 years given TT16,Lakshadweep,2024,0
+Children more than 16 years given TT16,Lakshadweep,2025,0
+Children more than 16 years given TT16,Lakshadweep,2026,0
+Children more than 16 years given TT16,Lakshadweep,2027,0
+Children more than 16 years given TT16,Lakshadweep,2028,0
+Children more than 16 years given TT16,Lakshadweep,2029,0
+Children more than 16 years given TT16,Puducherry,2020,26482809
+Children more than 16 years given TT16,Puducherry,2021,26594193
+Children more than 16 years given TT16,Puducherry,2022,26705577
+Children more than 16 years given TT16,Puducherry,2023,26816961
+Children more than 16 years given TT16,Puducherry,2024,26928344
+Children more than 16 years given TT16,Puducherry,2025,27039728
+Children more than 16 years given TT16,Puducherry,2026,27151112
+Children more than 16 years given TT16,Puducherry,2027,27262496
+Children more than 16 years given TT16,Puducherry,2028,27373880
+Children more than 16 years given TT16,Puducherry,2029,27485264
+Vitamin A Dose-1,All India,2020,10034871
+Vitamin A Dose-1,All India,2021,11098286
+Vitamin A Dose-1,All India,2022,12161701
+Vitamin A Dose-1,All India,2023,13225116
+Vitamin A Dose-1,All India,2024,14288531
+Vitamin A Dose-1,All India,2025,15351945
+Vitamin A Dose-1,All India,2026,16415360
+Vitamin A Dose-1,All India,2027,17478775
+Vitamin A Dose-1,All India,2028,18542190
+Vitamin A Dose-1,All India,2029,19605604
+Vitamin A Dose-1,Arunachal Pradesh,2020,410320
+Vitamin A Dose-1,Arunachal Pradesh,2021,380242
+Vitamin A Dose-1,Arunachal Pradesh,2022,350165
+Vitamin A Dose-1,Arunachal Pradesh,2023,320087
+Vitamin A Dose-1,Arunachal Pradesh,2024,290009
+Vitamin A Dose-1,Arunachal Pradesh,2025,259932
+Vitamin A Dose-1,Arunachal Pradesh,2026,229854
+Vitamin A Dose-1,Arunachal Pradesh,2027,199776
+Vitamin A Dose-1,Arunachal Pradesh,2028,169699
+Vitamin A Dose-1,Arunachal Pradesh,2029,139621
+Vitamin A Dose-1,Assam,2020,330340
+Vitamin A Dose-1,Assam,2021,362317
+Vitamin A Dose-1,Assam,2022,394293
+Vitamin A Dose-1,Assam,2023,426270
+Vitamin A Dose-1,Assam,2024,458247
+Vitamin A Dose-1,Assam,2025,490223
+Vitamin A Dose-1,Assam,2026,522200
+Vitamin A Dose-1,Assam,2027,554177
+Vitamin A Dose-1,Assam,2028,586153
+Vitamin A Dose-1,Assam,2029,618130
+Vitamin A Dose-1,Manipur,2020,62994
+Vitamin A Dose-1,Manipur,2021,62756
+Vitamin A Dose-1,Manipur,2022,62518
+Vitamin A Dose-1,Manipur,2023,62279
+Vitamin A Dose-1,Manipur,2024,62041
+Vitamin A Dose-1,Manipur,2025,61802
+Vitamin A Dose-1,Manipur,2026,61564
+Vitamin A Dose-1,Manipur,2027,61326
+Vitamin A Dose-1,Manipur,2028,61087
+Vitamin A Dose-1,Manipur,2029,60849
+Vitamin A Dose-1,Meghalaya,2020,40940
+Vitamin A Dose-1,Meghalaya,2021,43603
+Vitamin A Dose-1,Meghalaya,2022,46266
+Vitamin A Dose-1,Meghalaya,2023,48929
+Vitamin A Dose-1,Meghalaya,2024,51592
+Vitamin A Dose-1,Meghalaya,2025,54255
+Vitamin A Dose-1,Meghalaya,2026,56917
+Vitamin A Dose-1,Meghalaya,2027,59580
+Vitamin A Dose-1,Meghalaya,2028,62243
+Vitamin A Dose-1,Meghalaya,2029,64906
+Vitamin A Dose-1,Mizoram,2020,27654
+Vitamin A Dose-1,Mizoram,2021,26994
+Vitamin A Dose-1,Mizoram,2022,26333
+Vitamin A Dose-1,Mizoram,2023,25673
+Vitamin A Dose-1,Mizoram,2024,25013
+Vitamin A Dose-1,Mizoram,2025,24352
+Vitamin A Dose-1,Mizoram,2026,23692
+Vitamin A Dose-1,Mizoram,2027,23032
+Vitamin A Dose-1,Mizoram,2028,22371
+Vitamin A Dose-1,Mizoram,2029,21711
+Vitamin A Dose-1,Nagaland,2020,18009
+Vitamin A Dose-1,Nagaland,2021,18817
+Vitamin A Dose-1,Nagaland,2022,19625
+Vitamin A Dose-1,Nagaland,2023,20433
+Vitamin A Dose-1,Nagaland,2024,21241
+Vitamin A Dose-1,Nagaland,2025,22049
+Vitamin A Dose-1,Nagaland,2026,22858
+Vitamin A Dose-1,Nagaland,2027,23666
+Vitamin A Dose-1,Nagaland,2028,24474
+Vitamin A Dose-1,Nagaland,2029,25282
+Vitamin A Dose-1,Sikkim,2020,31672
+Vitamin A Dose-1,Sikkim,2021,29326
+Vitamin A Dose-1,Sikkim,2022,26980
+Vitamin A Dose-1,Sikkim,2023,24633
+Vitamin A Dose-1,Sikkim,2024,22287
+Vitamin A Dose-1,Sikkim,2025,19940
+Vitamin A Dose-1,Sikkim,2026,17594
+Vitamin A Dose-1,Sikkim,2027,15247
+Vitamin A Dose-1,Sikkim,2028,12901
+Vitamin A Dose-1,Sikkim,2029,10554
+Vitamin A Dose-1,Tripura,2020,1811233
+Vitamin A Dose-1,Tripura,2021,1709754
+Vitamin A Dose-1,Tripura,2022,1608276
+Vitamin A Dose-1,Tripura,2023,1506798
+Vitamin A Dose-1,Tripura,2024,1405319
+Vitamin A Dose-1,Tripura,2025,1303841
+Vitamin A Dose-1,Tripura,2026,1202362
+Vitamin A Dose-1,Tripura,2027,1100884
+Vitamin A Dose-1,Tripura,2028,999405
+Vitamin A Dose-1,Tripura,2029,897927
+Vitamin A Dose-1,Bihar,2020,1543251
+Vitamin A Dose-1,Bihar,2021,1654226
+Vitamin A Dose-1,Bihar,2022,1765202
+Vitamin A Dose-1,Bihar,2023,1876177
+Vitamin A Dose-1,Bihar,2024,1987152
+Vitamin A Dose-1,Bihar,2025,2098127
+Vitamin A Dose-1,Bihar,2026,2209103
+Vitamin A Dose-1,Bihar,2027,2320078
+Vitamin A Dose-1,Bihar,2028,2431053
+Vitamin A Dose-1,Bihar,2029,2542029
+Vitamin A Dose-1,Chhattisgarh,2020,317487
+Vitamin A Dose-1,Chhattisgarh,2021,345289
+Vitamin A Dose-1,Chhattisgarh,2022,373091
+Vitamin A Dose-1,Chhattisgarh,2023,400893
+Vitamin A Dose-1,Chhattisgarh,2024,428695
+Vitamin A Dose-1,Chhattisgarh,2025,456497
+Vitamin A Dose-1,Chhattisgarh,2026,484299
+Vitamin A Dose-1,Chhattisgarh,2027,512101
+Vitamin A Dose-1,Chhattisgarh,2028,539903
+Vitamin A Dose-1,Chhattisgarh,2029,567705
+Vitamin A Dose-1,Himachal Pradesh,2020,166931
+Vitamin A Dose-1,Himachal Pradesh,2021,161688
+Vitamin A Dose-1,Himachal Pradesh,2022,156446
+Vitamin A Dose-1,Himachal Pradesh,2023,151204
+Vitamin A Dose-1,Himachal Pradesh,2024,145962
+Vitamin A Dose-1,Himachal Pradesh,2025,140719
+Vitamin A Dose-1,Himachal Pradesh,2026,135477
+Vitamin A Dose-1,Himachal Pradesh,2027,130235
+Vitamin A Dose-1,Himachal Pradesh,2028,124992
+Vitamin A Dose-1,Himachal Pradesh,2029,119750
+Vitamin A Dose-1,Jammu & Kashmir,2020,596014
+Vitamin A Dose-1,Jammu & Kashmir,2021,576132
+Vitamin A Dose-1,Jammu & Kashmir,2022,556250
+Vitamin A Dose-1,Jammu & Kashmir,2023,536368
+Vitamin A Dose-1,Jammu & Kashmir,2024,516486
+Vitamin A Dose-1,Jammu & Kashmir,2025,496604
+Vitamin A Dose-1,Jammu & Kashmir,2026,476722
+Vitamin A Dose-1,Jammu & Kashmir,2027,456840
+Vitamin A Dose-1,Jammu & Kashmir,2028,436957
+Vitamin A Dose-1,Jammu & Kashmir,2029,417075
+Vitamin A Dose-1,Jharkhand,2020,1472075
+Vitamin A Dose-1,Jharkhand,2021,1426183
+Vitamin A Dose-1,Jharkhand,2022,1380291
+Vitamin A Dose-1,Jharkhand,2023,1334398
+Vitamin A Dose-1,Jharkhand,2024,1288506
+Vitamin A Dose-1,Jharkhand,2025,1242614
+Vitamin A Dose-1,Jharkhand,2026,1196721
+Vitamin A Dose-1,Jharkhand,2027,1150829
+Vitamin A Dose-1,Jharkhand,2028,1104937
+Vitamin A Dose-1,Jharkhand,2029,1059045
+Vitamin A Dose-1,Madhya Pradesh,2020,1187760
+Vitamin A Dose-1,Madhya Pradesh,2021,1230830
+Vitamin A Dose-1,Madhya Pradesh,2022,1273899
+Vitamin A Dose-1,Madhya Pradesh,2023,1316969
+Vitamin A Dose-1,Madhya Pradesh,2024,1360039
+Vitamin A Dose-1,Madhya Pradesh,2025,1403109
+Vitamin A Dose-1,Madhya Pradesh,2026,1446179
+Vitamin A Dose-1,Madhya Pradesh,2027,1489249
+Vitamin A Dose-1,Madhya Pradesh,2028,1532318
+Vitamin A Dose-1,Madhya Pradesh,2029,1575388
+Vitamin A Dose-1,Odisha,2020,1300108
+Vitamin A Dose-1,Odisha,2021,1252524
+Vitamin A Dose-1,Odisha,2022,1204939
+Vitamin A Dose-1,Odisha,2023,1157354
+Vitamin A Dose-1,Odisha,2024,1109770
+Vitamin A Dose-1,Odisha,2025,1062185
+Vitamin A Dose-1,Odisha,2026,1014600
+Vitamin A Dose-1,Odisha,2027,967016
+Vitamin A Dose-1,Odisha,2028,919431
+Vitamin A Dose-1,Odisha,2029,871847
+Vitamin A Dose-1,Rajasthan,2020,3966110
+Vitamin A Dose-1,Rajasthan,2021,3797801
+Vitamin A Dose-1,Rajasthan,2022,3629493
+Vitamin A Dose-1,Rajasthan,2023,3461184
+Vitamin A Dose-1,Rajasthan,2024,3292876
+Vitamin A Dose-1,Rajasthan,2025,3124568
+Vitamin A Dose-1,Rajasthan,2026,2956259
+Vitamin A Dose-1,Rajasthan,2027,2787951
+Vitamin A Dose-1,Rajasthan,2028,2619642
+Vitamin A Dose-1,Rajasthan,2029,2451334
+Vitamin A Dose-1,Uttar Pradesh,2020,2725805
+Vitamin A Dose-1,Uttar Pradesh,2021,3001055
+Vitamin A Dose-1,Uttar Pradesh,2022,3276305
+Vitamin A Dose-1,Uttar Pradesh,2023,3551555
+Vitamin A Dose-1,Uttar Pradesh,2024,3826805
+Vitamin A Dose-1,Uttar Pradesh,2025,4102055
+Vitamin A Dose-1,Uttar Pradesh,2026,4377305
+Vitamin A Dose-1,Uttar Pradesh,2027,4652555
+Vitamin A Dose-1,Uttar Pradesh,2028,4927805
+Vitamin A Dose-1,Uttar Pradesh,2029,5203055
+Vitamin A Dose-1,Uttarakhand,2020,403711
+Vitamin A Dose-1,Uttarakhand,2021,390523
+Vitamin A Dose-1,Uttarakhand,2022,377334
+Vitamin A Dose-1,Uttarakhand,2023,364146
+Vitamin A Dose-1,Uttarakhand,2024,350958
+Vitamin A Dose-1,Uttarakhand,2025,337769
+Vitamin A Dose-1,Uttarakhand,2026,324581
+Vitamin A Dose-1,Uttarakhand,2027,311393
+Vitamin A Dose-1,Uttarakhand,2028,298204
+Vitamin A Dose-1,Uttarakhand,2029,285016
+Vitamin A Dose-1,Goa,2020,0
+Vitamin A Dose-1,Goa,2021,0
+Vitamin A Dose-1,Goa,2022,0
+Vitamin A Dose-1,Goa,2023,0
+Vitamin A Dose-1,Goa,2024,0
+Vitamin A Dose-1,Goa,2025,0
+Vitamin A Dose-1,Goa,2026,0
+Vitamin A Dose-1,Goa,2027,0
+Vitamin A Dose-1,Goa,2028,0
+Vitamin A Dose-1,Goa,2029,0
+Vitamin A Dose-1,Gujarat,2020,1594835
+Vitamin A Dose-1,Gujarat,2021,1698596
+Vitamin A Dose-1,Gujarat,2022,1802357
+Vitamin A Dose-1,Gujarat,2023,1906118
+Vitamin A Dose-1,Gujarat,2024,2009878
+Vitamin A Dose-1,Gujarat,2025,2113639
+Vitamin A Dose-1,Gujarat,2026,2217400
+Vitamin A Dose-1,Gujarat,2027,2321160
+Vitamin A Dose-1,Gujarat,2028,2424921
+Vitamin A Dose-1,Gujarat,2029,2528682
+Vitamin A Dose-1,Haryana,2020,393947
+Vitamin A Dose-1,Haryana,2021,330211
+Vitamin A Dose-1,Haryana,2022,266475
+Vitamin A Dose-1,Haryana,2023,202740
+Vitamin A Dose-1,Haryana,2024,139004
+Vitamin A Dose-1,Haryana,2025,75269
+Vitamin A Dose-1,Haryana,2026,11533
+Vitamin A Dose-1,Haryana,2027,0
+Vitamin A Dose-1,Haryana,2028,0
+Vitamin A Dose-1,Haryana,2029,0
+Vitamin A Dose-1,Karnataka,2020,1342537
+Vitamin A Dose-1,Karnataka,2021,1414773
+Vitamin A Dose-1,Karnataka,2022,1487009
+Vitamin A Dose-1,Karnataka,2023,1559246
+Vitamin A Dose-1,Karnataka,2024,1631482
+Vitamin A Dose-1,Karnataka,2025,1703718
+Vitamin A Dose-1,Karnataka,2026,1775955
+Vitamin A Dose-1,Karnataka,2027,1848191
+Vitamin A Dose-1,Karnataka,2028,1920427
+Vitamin A Dose-1,Karnataka,2029,1992664
+Vitamin A Dose-1,Kerala,2020,0
+Vitamin A Dose-1,Kerala,2021,0
+Vitamin A Dose-1,Kerala,2022,0
+Vitamin A Dose-1,Kerala,2023,0
+Vitamin A Dose-1,Kerala,2024,0
+Vitamin A Dose-1,Kerala,2025,0
+Vitamin A Dose-1,Kerala,2026,0
+Vitamin A Dose-1,Kerala,2027,0
+Vitamin A Dose-1,Kerala,2028,0
+Vitamin A Dose-1,Kerala,2029,0
+Vitamin A Dose-1,Maharashtra,2020,2775770
+Vitamin A Dose-1,Maharashtra,2021,2993625
+Vitamin A Dose-1,Maharashtra,2022,3211479
+Vitamin A Dose-1,Maharashtra,2023,3429333
+Vitamin A Dose-1,Maharashtra,2024,3647187
+Vitamin A Dose-1,Maharashtra,2025,3865041
+Vitamin A Dose-1,Maharashtra,2026,4082895
+Vitamin A Dose-1,Maharashtra,2027,4300750
+Vitamin A Dose-1,Maharashtra,2028,4518604
+Vitamin A Dose-1,Maharashtra,2029,4736458
+Vitamin A Dose-1,Punjab,2020,151091
+Vitamin A Dose-1,Punjab,2021,68341
+Vitamin A Dose-1,Punjab,2022,0
+Vitamin A Dose-1,Punjab,2023,0
+Vitamin A Dose-1,Punjab,2024,0
+Vitamin A Dose-1,Punjab,2025,0
+Vitamin A Dose-1,Punjab,2026,0
+Vitamin A Dose-1,Punjab,2027,0
+Vitamin A Dose-1,Punjab,2028,0
+Vitamin A Dose-1,Punjab,2029,0
+Vitamin A Dose-1,Tamil Nadu,2020,985459
+Vitamin A Dose-1,Tamil Nadu,2021,945621
+Vitamin A Dose-1,Tamil Nadu,2022,905783
+Vitamin A Dose-1,Tamil Nadu,2023,865944
+Vitamin A Dose-1,Tamil Nadu,2024,826106
+Vitamin A Dose-1,Tamil Nadu,2025,786268
+Vitamin A Dose-1,Tamil Nadu,2026,746429
+Vitamin A Dose-1,Tamil Nadu,2027,706591
+Vitamin A Dose-1,Tamil Nadu,2028,666753
+Vitamin A Dose-1,Tamil Nadu,2029,626914
+Vitamin A Dose-1,West Bengal,2020,1812952
+Vitamin A Dose-1,West Bengal,2021,1984728
+Vitamin A Dose-1,West Bengal,2022,2156504
+Vitamin A Dose-1,West Bengal,2023,2328280
+Vitamin A Dose-1,West Bengal,2024,2500056
+Vitamin A Dose-1,West Bengal,2025,2671832
+Vitamin A Dose-1,West Bengal,2026,2843608
+Vitamin A Dose-1,West Bengal,2027,3015384
+Vitamin A Dose-1,West Bengal,2028,3187160
+Vitamin A Dose-1,West Bengal,2029,3358935
+Vitamin A Dose-1,A & N Islands,2020,0
+Vitamin A Dose-1,A & N Islands,2021,0
+Vitamin A Dose-1,A & N Islands,2022,0
+Vitamin A Dose-1,A & N Islands,2023,0
+Vitamin A Dose-1,A & N Islands,2024,0
+Vitamin A Dose-1,A & N Islands,2025,0
+Vitamin A Dose-1,A & N Islands,2026,0
+Vitamin A Dose-1,A & N Islands,2027,0
+Vitamin A Dose-1,A & N Islands,2028,0
+Vitamin A Dose-1,A & N Islands,2029,0
+Vitamin A Dose-1,Chandigarh,2020,23772
+Vitamin A Dose-1,Chandigarh,2021,25222
+Vitamin A Dose-1,Chandigarh,2022,26671
+Vitamin A Dose-1,Chandigarh,2023,28120
+Vitamin A Dose-1,Chandigarh,2024,29569
+Vitamin A Dose-1,Chandigarh,2025,31019
+Vitamin A Dose-1,Chandigarh,2026,32468
+Vitamin A Dose-1,Chandigarh,2027,33917
+Vitamin A Dose-1,Chandigarh,2028,35366
+Vitamin A Dose-1,Chandigarh,2029,36816
+Vitamin A Dose-1,Dadra & Nagar Haveli,2020,12062
+Vitamin A Dose-1,Dadra & Nagar Haveli,2021,12710
+Vitamin A Dose-1,Dadra & Nagar Haveli,2022,13358
+Vitamin A Dose-1,Dadra & Nagar Haveli,2023,14006
+Vitamin A Dose-1,Dadra & Nagar Haveli,2024,14654
+Vitamin A Dose-1,Dadra & Nagar Haveli,2025,15302
+Vitamin A Dose-1,Dadra & Nagar Haveli,2026,15950
+Vitamin A Dose-1,Dadra & Nagar Haveli,2027,16598
+Vitamin A Dose-1,Dadra & Nagar Haveli,2028,17246
+Vitamin A Dose-1,Dadra & Nagar Haveli,2029,17894
+Vitamin A Dose-1,Daman & Diu,2020,0
+Vitamin A Dose-1,Daman & Diu,2021,0
+Vitamin A Dose-1,Daman & Diu,2022,0
+Vitamin A Dose-1,Daman & Diu,2023,0
+Vitamin A Dose-1,Daman & Diu,2024,0
+Vitamin A Dose-1,Daman & Diu,2025,0
+Vitamin A Dose-1,Daman & Diu,2026,0
+Vitamin A Dose-1,Daman & Diu,2027,0
+Vitamin A Dose-1,Daman & Diu,2028,0
+Vitamin A Dose-1,Daman & Diu,2029,0
+Vitamin A Dose-1,Delhi,2020,443232
+Vitamin A Dose-1,Delhi,2021,484430
+Vitamin A Dose-1,Delhi,2022,525627
+Vitamin A Dose-1,Delhi,2023,566825
+Vitamin A Dose-1,Delhi,2024,608023
+Vitamin A Dose-1,Delhi,2025,649220
+Vitamin A Dose-1,Delhi,2026,690418
+Vitamin A Dose-1,Delhi,2027,731616
+Vitamin A Dose-1,Delhi,2028,772813
+Vitamin A Dose-1,Delhi,2029,814011
+Vitamin A Dose-1,Lakshadweep,2020,0
+Vitamin A Dose-1,Lakshadweep,2021,0
+Vitamin A Dose-1,Lakshadweep,2022,0
+Vitamin A Dose-1,Lakshadweep,2023,0
+Vitamin A Dose-1,Lakshadweep,2024,0
+Vitamin A Dose-1,Lakshadweep,2025,0
+Vitamin A Dose-1,Lakshadweep,2026,0
+Vitamin A Dose-1,Lakshadweep,2027,0
+Vitamin A Dose-1,Lakshadweep,2028,0
+Vitamin A Dose-1,Lakshadweep,2029,0
+Vitamin A Dose-1,Puducherry,2020,3805902
+Vitamin A Dose-1,Puducherry,2021,1680698
+Vitamin A Dose-1,Puducherry,2022,0
+Vitamin A Dose-1,Puducherry,2023,0
+Vitamin A Dose-1,Puducherry,2024,0
+Vitamin A Dose-1,Puducherry,2025,0
+Vitamin A Dose-1,Puducherry,2026,0
+Vitamin A Dose-1,Puducherry,2027,0
+Vitamin A Dose-1,Puducherry,2028,0
+Vitamin A Dose-1,Puducherry,2029,0
+Vitamin A Dose-5,All India,2020,21177885
+Vitamin A Dose-5,All India,2021,23735451
+Vitamin A Dose-5,All India,2022,26293017
+Vitamin A Dose-5,All India,2023,28850584
+Vitamin A Dose-5,All India,2024,31408150
+Vitamin A Dose-5,All India,2025,33965717
+Vitamin A Dose-5,All India,2026,36523283
+Vitamin A Dose-5,All India,2027,39080850
+Vitamin A Dose-5,All India,2028,41638416
+Vitamin A Dose-5,All India,2029,44195982
+Vitamin A Dose-5,Arunachal Pradesh,2020,117110
+Vitamin A Dose-5,Arunachal Pradesh,2021,56293
+Vitamin A Dose-5,Arunachal Pradesh,2022,0
+Vitamin A Dose-5,Arunachal Pradesh,2023,0
+Vitamin A Dose-5,Arunachal Pradesh,2024,0
+Vitamin A Dose-5,Arunachal Pradesh,2025,0
+Vitamin A Dose-5,Arunachal Pradesh,2026,0
+Vitamin A Dose-5,Arunachal Pradesh,2027,0
+Vitamin A Dose-5,Arunachal Pradesh,2028,0
+Vitamin A Dose-5,Arunachal Pradesh,2029,0
+Vitamin A Dose-5,Assam,2020,714221
+Vitamin A Dose-5,Assam,2021,783674
+Vitamin A Dose-5,Assam,2022,853127
+Vitamin A Dose-5,Assam,2023,922580
+Vitamin A Dose-5,Assam,2024,992033
+Vitamin A Dose-5,Assam,2025,1061487
+Vitamin A Dose-5,Assam,2026,1130940
+Vitamin A Dose-5,Assam,2027,1200393
+Vitamin A Dose-5,Assam,2028,1269846
+Vitamin A Dose-5,Assam,2029,1339299
+Vitamin A Dose-5,Manipur,2020,53950
+Vitamin A Dose-5,Manipur,2021,52693
+Vitamin A Dose-5,Manipur,2022,51436
+Vitamin A Dose-5,Manipur,2023,50179
+Vitamin A Dose-5,Manipur,2024,48921
+Vitamin A Dose-5,Manipur,2025,47664
+Vitamin A Dose-5,Manipur,2026,46407
+Vitamin A Dose-5,Manipur,2027,45150
+Vitamin A Dose-5,Manipur,2028,43893
+Vitamin A Dose-5,Manipur,2029,42635
+Vitamin A Dose-5,Meghalaya,2020,63054
+Vitamin A Dose-5,Meghalaya,2021,67861
+Vitamin A Dose-5,Meghalaya,2022,72668
+Vitamin A Dose-5,Meghalaya,2023,77475
+Vitamin A Dose-5,Meghalaya,2024,82282
+Vitamin A Dose-5,Meghalaya,2025,87089
+Vitamin A Dose-5,Meghalaya,2026,91895
+Vitamin A Dose-5,Meghalaya,2027,96702
+Vitamin A Dose-5,Meghalaya,2028,101509
+Vitamin A Dose-5,Meghalaya,2029,106316
+Vitamin A Dose-5,Mizoram,2020,21348
+Vitamin A Dose-5,Mizoram,2021,19950
+Vitamin A Dose-5,Mizoram,2022,18553
+Vitamin A Dose-5,Mizoram,2023,17155
+Vitamin A Dose-5,Mizoram,2024,15757
+Vitamin A Dose-5,Mizoram,2025,14360
+Vitamin A Dose-5,Mizoram,2026,12962
+Vitamin A Dose-5,Mizoram,2027,11564
+Vitamin A Dose-5,Mizoram,2028,10167
+Vitamin A Dose-5,Mizoram,2029,8769
+Vitamin A Dose-5,Nagaland,2020,30004
+Vitamin A Dose-5,Nagaland,2021,32241
+Vitamin A Dose-5,Nagaland,2022,34479
+Vitamin A Dose-5,Nagaland,2023,36716
+Vitamin A Dose-5,Nagaland,2024,38954
+Vitamin A Dose-5,Nagaland,2025,41191
+Vitamin A Dose-5,Nagaland,2026,43428
+Vitamin A Dose-5,Nagaland,2027,45666
+Vitamin A Dose-5,Nagaland,2028,47903
+Vitamin A Dose-5,Nagaland,2029,50141
+Vitamin A Dose-5,Sikkim,2020,11956
+Vitamin A Dose-5,Sikkim,2021,7485
+Vitamin A Dose-5,Sikkim,2022,3013
+Vitamin A Dose-5,Sikkim,2023,0
+Vitamin A Dose-5,Sikkim,2024,0
+Vitamin A Dose-5,Sikkim,2025,0
+Vitamin A Dose-5,Sikkim,2026,0
+Vitamin A Dose-5,Sikkim,2027,0
+Vitamin A Dose-5,Sikkim,2028,0
+Vitamin A Dose-5,Sikkim,2029,0
+Vitamin A Dose-5,Tripura,2020,181816
+Vitamin A Dose-5,Tripura,2021,0
+Vitamin A Dose-5,Tripura,2022,0
+Vitamin A Dose-5,Tripura,2023,0
+Vitamin A Dose-5,Tripura,2024,0
+Vitamin A Dose-5,Tripura,2025,0
+Vitamin A Dose-5,Tripura,2026,0
+Vitamin A Dose-5,Tripura,2027,0
+Vitamin A Dose-5,Tripura,2028,0
+Vitamin A Dose-5,Tripura,2029,0
+Vitamin A Dose-5,Bihar,2020,2414686
+Vitamin A Dose-5,Bihar,2021,2619314
+Vitamin A Dose-5,Bihar,2022,2823941
+Vitamin A Dose-5,Bihar,2023,3028569
+Vitamin A Dose-5,Bihar,2024,3233197
+Vitamin A Dose-5,Bihar,2025,3437825
+Vitamin A Dose-5,Bihar,2026,3642453
+Vitamin A Dose-5,Bihar,2027,3847081
+Vitamin A Dose-5,Bihar,2028,4051709
+Vitamin A Dose-5,Bihar,2029,4256337
+Vitamin A Dose-5,Chhattisgarh,2020,610146
+Vitamin A Dose-5,Chhattisgarh,2021,662063
+Vitamin A Dose-5,Chhattisgarh,2022,713980
+Vitamin A Dose-5,Chhattisgarh,2023,765897
+Vitamin A Dose-5,Chhattisgarh,2024,817815
+Vitamin A Dose-5,Chhattisgarh,2025,869732
+Vitamin A Dose-5,Chhattisgarh,2026,921649
+Vitamin A Dose-5,Chhattisgarh,2027,973566
+Vitamin A Dose-5,Chhattisgarh,2028,1025484
+Vitamin A Dose-5,Chhattisgarh,2029,1077401
+Vitamin A Dose-5,Himachal Pradesh,2020,136059
+Vitamin A Dose-5,Himachal Pradesh,2021,127570
+Vitamin A Dose-5,Himachal Pradesh,2022,119082
+Vitamin A Dose-5,Himachal Pradesh,2023,110593
+Vitamin A Dose-5,Himachal Pradesh,2024,102105
+Vitamin A Dose-5,Himachal Pradesh,2025,93616
+Vitamin A Dose-5,Himachal Pradesh,2026,85128
+Vitamin A Dose-5,Himachal Pradesh,2027,76639
+Vitamin A Dose-5,Himachal Pradesh,2028,68150
+Vitamin A Dose-5,Himachal Pradesh,2029,59662
+Vitamin A Dose-5,Jammu & Kashmir,2020,322301
+Vitamin A Dose-5,Jammu & Kashmir,2021,263598
+Vitamin A Dose-5,Jammu & Kashmir,2022,204895
+Vitamin A Dose-5,Jammu & Kashmir,2023,146192
+Vitamin A Dose-5,Jammu & Kashmir,2024,87489
+Vitamin A Dose-5,Jammu & Kashmir,2025,28786
+Vitamin A Dose-5,Jammu & Kashmir,2026,0
+Vitamin A Dose-5,Jammu & Kashmir,2027,0
+Vitamin A Dose-5,Jammu & Kashmir,2028,0
+Vitamin A Dose-5,Jammu & Kashmir,2029,0
+Vitamin A Dose-5,Jharkhand,2020,977696
+Vitamin A Dose-5,Jharkhand,2021,880368
+Vitamin A Dose-5,Jharkhand,2022,783040
+Vitamin A Dose-5,Jharkhand,2023,685712
+Vitamin A Dose-5,Jharkhand,2024,588383
+Vitamin A Dose-5,Jharkhand,2025,491055
+Vitamin A Dose-5,Jharkhand,2026,393727
+Vitamin A Dose-5,Jharkhand,2027,296399
+Vitamin A Dose-5,Jharkhand,2028,199071
+Vitamin A Dose-5,Jharkhand,2029,101742
+Vitamin A Dose-5,Madhya Pradesh,2020,1697996
+Vitamin A Dose-5,Madhya Pradesh,2021,1797548
+Vitamin A Dose-5,Madhya Pradesh,2022,1897101
+Vitamin A Dose-5,Madhya Pradesh,2023,1996653
+Vitamin A Dose-5,Madhya Pradesh,2024,2096205
+Vitamin A Dose-5,Madhya Pradesh,2025,2195757
+Vitamin A Dose-5,Madhya Pradesh,2026,2295310
+Vitamin A Dose-5,Madhya Pradesh,2027,2394862
+Vitamin A Dose-5,Madhya Pradesh,2028,2494414
+Vitamin A Dose-5,Madhya Pradesh,2029,2593966
+Vitamin A Dose-5,Odisha,2020,1240977
+Vitamin A Dose-5,Odisha,2021,1184577
+Vitamin A Dose-5,Odisha,2022,1128177
+Vitamin A Dose-5,Odisha,2023,1071777
+Vitamin A Dose-5,Odisha,2024,1015377
+Vitamin A Dose-5,Odisha,2025,958977
+Vitamin A Dose-5,Odisha,2026,902577
+Vitamin A Dose-5,Odisha,2027,846177
+Vitamin A Dose-5,Odisha,2028,789777
+Vitamin A Dose-5,Odisha,2029,733377
+Vitamin A Dose-5,Rajasthan,2020,2022733
+Vitamin A Dose-5,Rajasthan,2021,1635520
+Vitamin A Dose-5,Rajasthan,2022,1248307
+Vitamin A Dose-5,Rajasthan,2023,861094
+Vitamin A Dose-5,Rajasthan,2024,473881
+Vitamin A Dose-5,Rajasthan,2025,86669
+Vitamin A Dose-5,Rajasthan,2026,0
+Vitamin A Dose-5,Rajasthan,2027,0
+Vitamin A Dose-5,Rajasthan,2028,0
+Vitamin A Dose-5,Rajasthan,2029,0
+Vitamin A Dose-5,Uttar Pradesh,2020,5429868
+Vitamin A Dose-5,Uttar Pradesh,2021,5979390
+Vitamin A Dose-5,Uttar Pradesh,2022,6528912
+Vitamin A Dose-5,Uttar Pradesh,2023,7078433
+Vitamin A Dose-5,Uttar Pradesh,2024,7627955
+Vitamin A Dose-5,Uttar Pradesh,2025,8177477
+Vitamin A Dose-5,Uttar Pradesh,2026,8726999
+Vitamin A Dose-5,Uttar Pradesh,2027,9276521
+Vitamin A Dose-5,Uttar Pradesh,2028,9826042
+Vitamin A Dose-5,Uttar Pradesh,2029,10375564
+Vitamin A Dose-5,Uttarakhand,2020,203913
+Vitamin A Dose-5,Uttarakhand,2021,137807
+Vitamin A Dose-5,Uttarakhand,2022,71701
+Vitamin A Dose-5,Uttarakhand,2023,5596
+Vitamin A Dose-5,Uttarakhand,2024,0
+Vitamin A Dose-5,Uttarakhand,2025,0
+Vitamin A Dose-5,Uttarakhand,2026,0
+Vitamin A Dose-5,Uttarakhand,2027,0
+Vitamin A Dose-5,Uttarakhand,2028,0
+Vitamin A Dose-5,Uttarakhand,2029,0
+Vitamin A Dose-5,Goa,2020,0
+Vitamin A Dose-5,Goa,2021,0
+Vitamin A Dose-5,Goa,2022,0
+Vitamin A Dose-5,Goa,2023,0
+Vitamin A Dose-5,Goa,2024,0
+Vitamin A Dose-5,Goa,2025,0
+Vitamin A Dose-5,Goa,2026,0
+Vitamin A Dose-5,Goa,2027,0
+Vitamin A Dose-5,Goa,2028,0
+Vitamin A Dose-5,Goa,2029,0
+Vitamin A Dose-5,Gujarat,2020,1602511
+Vitamin A Dose-5,Gujarat,2021,1679039
+Vitamin A Dose-5,Gujarat,2022,1755568
+Vitamin A Dose-5,Gujarat,2023,1832096
+Vitamin A Dose-5,Gujarat,2024,1908624
+Vitamin A Dose-5,Gujarat,2025,1985153
+Vitamin A Dose-5,Gujarat,2026,2061681
+Vitamin A Dose-5,Gujarat,2027,2138209
+Vitamin A Dose-5,Gujarat,2028,2214738
+Vitamin A Dose-5,Gujarat,2029,2291266
+Vitamin A Dose-5,Haryana,2020,440526
+Vitamin A Dose-5,Haryana,2021,410066
+Vitamin A Dose-5,Haryana,2022,379606
+Vitamin A Dose-5,Haryana,2023,349146
+Vitamin A Dose-5,Haryana,2024,318686
+Vitamin A Dose-5,Haryana,2025,288226
+Vitamin A Dose-5,Haryana,2026,257767
+Vitamin A Dose-5,Haryana,2027,227307
+Vitamin A Dose-5,Haryana,2028,196847
+Vitamin A Dose-5,Haryana,2029,166387
+Vitamin A Dose-5,Karnataka,2020,1392712
+Vitamin A Dose-5,Karnataka,2021,1464195
+Vitamin A Dose-5,Karnataka,2022,1535678
+Vitamin A Dose-5,Karnataka,2023,1607161
+Vitamin A Dose-5,Karnataka,2024,1678644
+Vitamin A Dose-5,Karnataka,2025,1750127
+Vitamin A Dose-5,Karnataka,2026,1821611
+Vitamin A Dose-5,Karnataka,2027,1893094
+Vitamin A Dose-5,Karnataka,2028,1964577
+Vitamin A Dose-5,Karnataka,2029,2036060
+Vitamin A Dose-5,Kerala,2020,77447
+Vitamin A Dose-5,Kerala,2021,0
+Vitamin A Dose-5,Kerala,2022,0
+Vitamin A Dose-5,Kerala,2023,0
+Vitamin A Dose-5,Kerala,2024,0
+Vitamin A Dose-5,Kerala,2025,0
+Vitamin A Dose-5,Kerala,2026,0
+Vitamin A Dose-5,Kerala,2027,0
+Vitamin A Dose-5,Kerala,2028,0
+Vitamin A Dose-5,Kerala,2029,0
+Vitamin A Dose-5,Maharashtra,2020,2629722
+Vitamin A Dose-5,Maharashtra,2021,2797818
+Vitamin A Dose-5,Maharashtra,2022,2965913
+Vitamin A Dose-5,Maharashtra,2023,3134009
+Vitamin A Dose-5,Maharashtra,2024,3302104
+Vitamin A Dose-5,Maharashtra,2025,3470200
+Vitamin A Dose-5,Maharashtra,2026,3638295
+Vitamin A Dose-5,Maharashtra,2027,3806391
+Vitamin A Dose-5,Maharashtra,2028,3974486
+Vitamin A Dose-5,Maharashtra,2029,4142582
+Vitamin A Dose-5,Punjab,2020,160209
+Vitamin A Dose-5,Punjab,2021,95400
+Vitamin A Dose-5,Punjab,2022,30590
+Vitamin A Dose-5,Punjab,2023,0
+Vitamin A Dose-5,Punjab,2024,0
+Vitamin A Dose-5,Punjab,2025,0
+Vitamin A Dose-5,Punjab,2026,0
+Vitamin A Dose-5,Punjab,2027,0
+Vitamin A Dose-5,Punjab,2028,0
+Vitamin A Dose-5,Punjab,2029,0
+Vitamin A Dose-5,Tamil Nadu,2020,927040
+Vitamin A Dose-5,Tamil Nadu,2021,882171
+Vitamin A Dose-5,Tamil Nadu,2022,837301
+Vitamin A Dose-5,Tamil Nadu,2023,792432
+Vitamin A Dose-5,Tamil Nadu,2024,747562
+Vitamin A Dose-5,Tamil Nadu,2025,702693
+Vitamin A Dose-5,Tamil Nadu,2026,657824
+Vitamin A Dose-5,Tamil Nadu,2027,612954
+Vitamin A Dose-5,Tamil Nadu,2028,568085
+Vitamin A Dose-5,Tamil Nadu,2029,523215
+Vitamin A Dose-5,West Bengal,2020,1777917
+Vitamin A Dose-5,West Bengal,2021,1867469
+Vitamin A Dose-5,West Bengal,2022,1957020
+Vitamin A Dose-5,West Bengal,2023,2046572
+Vitamin A Dose-5,West Bengal,2024,2136123
+Vitamin A Dose-5,West Bengal,2025,2225675
+Vitamin A Dose-5,West Bengal,2026,2315226
+Vitamin A Dose-5,West Bengal,2027,2404777
+Vitamin A Dose-5,West Bengal,2028,2494329
+Vitamin A Dose-5,West Bengal,2029,2583880
+Vitamin A Dose-5,A & N Islands,2020,0
+Vitamin A Dose-5,A & N Islands,2021,0
+Vitamin A Dose-5,A & N Islands,2022,0
+Vitamin A Dose-5,A & N Islands,2023,0
+Vitamin A Dose-5,A & N Islands,2024,0
+Vitamin A Dose-5,A & N Islands,2025,0
+Vitamin A Dose-5,A & N Islands,2026,0
+Vitamin A Dose-5,A & N Islands,2027,0
+Vitamin A Dose-5,A & N Islands,2028,0
+Vitamin A Dose-5,A & N Islands,2029,0
+Vitamin A Dose-5,Chandigarh,2020,22701
+Vitamin A Dose-5,Chandigarh,2021,23831
+Vitamin A Dose-5,Chandigarh,2022,24960
+Vitamin A Dose-5,Chandigarh,2023,26090
+Vitamin A Dose-5,Chandigarh,2024,27220
+Vitamin A Dose-5,Chandigarh,2025,28350
+Vitamin A Dose-5,Chandigarh,2026,29480
+Vitamin A Dose-5,Chandigarh,2027,30610
+Vitamin A Dose-5,Chandigarh,2028,31739
+Vitamin A Dose-5,Chandigarh,2029,32869
+Vitamin A Dose-5,Dadra & Nagar Haveli,2020,13443
+Vitamin A Dose-5,Dadra & Nagar Haveli,2021,14178
+Vitamin A Dose-5,Dadra & Nagar Haveli,2022,14913
+Vitamin A Dose-5,Dadra & Nagar Haveli,2023,15648
+Vitamin A Dose-5,Dadra & Nagar Haveli,2024,16383
+Vitamin A Dose-5,Dadra & Nagar Haveli,2025,17118
+Vitamin A Dose-5,Dadra & Nagar Haveli,2026,17854
+Vitamin A Dose-5,Dadra & Nagar Haveli,2027,18589
+Vitamin A Dose-5,Dadra & Nagar Haveli,2028,19324
+Vitamin A Dose-5,Dadra & Nagar Haveli,2029,20059
+Vitamin A Dose-5,Daman & Diu,2020,0
+Vitamin A Dose-5,Daman & Diu,2021,0
+Vitamin A Dose-5,Daman & Diu,2022,0
+Vitamin A Dose-5,Daman & Diu,2023,0
+Vitamin A Dose-5,Daman & Diu,2024,0
+Vitamin A Dose-5,Daman & Diu,2025,0
+Vitamin A Dose-5,Daman & Diu,2026,0
+Vitamin A Dose-5,Daman & Diu,2027,0
+Vitamin A Dose-5,Daman & Diu,2028,0
+Vitamin A Dose-5,Daman & Diu,2029,0
+Vitamin A Dose-5,Delhi,2020,413792
+Vitamin A Dose-5,Delhi,2021,446052
+Vitamin A Dose-5,Delhi,2022,478313
+Vitamin A Dose-5,Delhi,2023,510573
+Vitamin A Dose-5,Delhi,2024,542833
+Vitamin A Dose-5,Delhi,2025,575094
+Vitamin A Dose-5,Delhi,2026,607354
+Vitamin A Dose-5,Delhi,2027,639615
+Vitamin A Dose-5,Delhi,2028,671875
+Vitamin A Dose-5,Delhi,2029,704136
+Vitamin A Dose-5,Lakshadweep,2020,0
+Vitamin A Dose-5,Lakshadweep,2021,0
+Vitamin A Dose-5,Lakshadweep,2022,0
+Vitamin A Dose-5,Lakshadweep,2023,0
+Vitamin A Dose-5,Lakshadweep,2024,0
+Vitamin A Dose-5,Lakshadweep,2025,0
+Vitamin A Dose-5,Lakshadweep,2026,0
+Vitamin A Dose-5,Lakshadweep,2027,0
+Vitamin A Dose-5,Lakshadweep,2028,0
+Vitamin A Dose-5,Lakshadweep,2029,0
+Vitamin A Dose-5,Puducherry,2020,0
+Vitamin A Dose-5,Puducherry,2021,0
+Vitamin A Dose-5,Puducherry,2022,0
+Vitamin A Dose-5,Puducherry,2023,0
+Vitamin A Dose-5,Puducherry,2024,0
+Vitamin A Dose-5,Puducherry,2025,0
+Vitamin A Dose-5,Puducherry,2026,0
+Vitamin A Dose-5,Puducherry,2027,0
+Vitamin A Dose-5,Puducherry,2028,0
+Vitamin A Dose-5,Puducherry,2029,0
+Vitamin A Dose-9,All India,2020,33252813
+Vitamin A Dose-9,All India,2021,36315194
+Vitamin A Dose-9,All India,2022,39377574
+Vitamin A Dose-9,All India,2023,42439955
+Vitamin A Dose-9,All India,2024,45502336
+Vitamin A Dose-9,All India,2025,48564717
+Vitamin A Dose-9,All India,2026,51627097
+Vitamin A Dose-9,All India,2027,54689478
+Vitamin A Dose-9,All India,2028,57751859
+Vitamin A Dose-9,All India,2029,60814240
+Vitamin A Dose-9,Arunachal Pradesh,2020,0
+Vitamin A Dose-9,Arunachal Pradesh,2021,0
+Vitamin A Dose-9,Arunachal Pradesh,2022,0
+Vitamin A Dose-9,Arunachal Pradesh,2023,0
+Vitamin A Dose-9,Arunachal Pradesh,2024,0
+Vitamin A Dose-9,Arunachal Pradesh,2025,0
+Vitamin A Dose-9,Arunachal Pradesh,2026,0
+Vitamin A Dose-9,Arunachal Pradesh,2027,0
+Vitamin A Dose-9,Arunachal Pradesh,2028,0
+Vitamin A Dose-9,Arunachal Pradesh,2029,0
+Vitamin A Dose-9,Assam,2020,916018
+Vitamin A Dose-9,Assam,2021,1007657
+Vitamin A Dose-9,Assam,2022,1099295
+Vitamin A Dose-9,Assam,2023,1190933
+Vitamin A Dose-9,Assam,2024,1282571
+Vitamin A Dose-9,Assam,2025,1374209
+Vitamin A Dose-9,Assam,2026,1465848
+Vitamin A Dose-9,Assam,2027,1557486
+Vitamin A Dose-9,Assam,2028,1649124
+Vitamin A Dose-9,Assam,2029,1740762
+Vitamin A Dose-9,Manipur,2020,40524
+Vitamin A Dose-9,Manipur,2021,37989
+Vitamin A Dose-9,Manipur,2022,35454
+Vitamin A Dose-9,Manipur,2023,32919
+Vitamin A Dose-9,Manipur,2024,30384
+Vitamin A Dose-9,Manipur,2025,27849
+Vitamin A Dose-9,Manipur,2026,25314
+Vitamin A Dose-9,Manipur,2027,22779
+Vitamin A Dose-9,Manipur,2028,20244
+Vitamin A Dose-9,Manipur,2029,17710
+Vitamin A Dose-9,Meghalaya,2020,79504
+Vitamin A Dose-9,Meghalaya,2021,85715
+Vitamin A Dose-9,Meghalaya,2022,91927
+Vitamin A Dose-9,Meghalaya,2023,98138
+Vitamin A Dose-9,Meghalaya,2024,104349
+Vitamin A Dose-9,Meghalaya,2025,110561
+Vitamin A Dose-9,Meghalaya,2026,116772
+Vitamin A Dose-9,Meghalaya,2027,122984
+Vitamin A Dose-9,Meghalaya,2028,129195
+Vitamin A Dose-9,Meghalaya,2029,135406
+Vitamin A Dose-9,Mizoram,2020,10946
+Vitamin A Dose-9,Mizoram,2021,8535
+Vitamin A Dose-9,Mizoram,2022,6123
+Vitamin A Dose-9,Mizoram,2023,3712
+Vitamin A Dose-9,Mizoram,2024,1301
+Vitamin A Dose-9,Mizoram,2025,0
+Vitamin A Dose-9,Mizoram,2026,0
+Vitamin A Dose-9,Mizoram,2027,0
+Vitamin A Dose-9,Mizoram,2028,0
+Vitamin A Dose-9,Mizoram,2029,0
+Vitamin A Dose-9,Nagaland,2020,33107
+Vitamin A Dose-9,Nagaland,2021,35230
+Vitamin A Dose-9,Nagaland,2022,37353
+Vitamin A Dose-9,Nagaland,2023,39477
+Vitamin A Dose-9,Nagaland,2024,41600
+Vitamin A Dose-9,Nagaland,2025,43724
+Vitamin A Dose-9,Nagaland,2026,45847
+Vitamin A Dose-9,Nagaland,2027,47971
+Vitamin A Dose-9,Nagaland,2028,50094
+Vitamin A Dose-9,Nagaland,2029,52217
+Vitamin A Dose-9,Sikkim,2020,4516
+Vitamin A Dose-9,Sikkim,2021,0
+Vitamin A Dose-9,Sikkim,2022,0
+Vitamin A Dose-9,Sikkim,2023,0
+Vitamin A Dose-9,Sikkim,2024,0
+Vitamin A Dose-9,Sikkim,2025,0
+Vitamin A Dose-9,Sikkim,2026,0
+Vitamin A Dose-9,Sikkim,2027,0
+Vitamin A Dose-9,Sikkim,2028,0
+Vitamin A Dose-9,Sikkim,2029,0
+Vitamin A Dose-9,Tripura,2020,0
+Vitamin A Dose-9,Tripura,2021,0
+Vitamin A Dose-9,Tripura,2022,0
+Vitamin A Dose-9,Tripura,2023,0
+Vitamin A Dose-9,Tripura,2024,0
+Vitamin A Dose-9,Tripura,2025,0
+Vitamin A Dose-9,Tripura,2026,0
+Vitamin A Dose-9,Tripura,2027,0
+Vitamin A Dose-9,Tripura,2028,0
+Vitamin A Dose-9,Tripura,2029,0
+Vitamin A Dose-9,Bihar,2020,3296690
+Vitamin A Dose-9,Bihar,2021,3564285
+Vitamin A Dose-9,Bihar,2022,3831880
+Vitamin A Dose-9,Bihar,2023,4099475
+Vitamin A Dose-9,Bihar,2024,4367070
+Vitamin A Dose-9,Bihar,2025,4634665
+Vitamin A Dose-9,Bihar,2026,4902260
+Vitamin A Dose-9,Bihar,2027,5169855
+Vitamin A Dose-9,Bihar,2028,5437450
+Vitamin A Dose-9,Bihar,2029,5705044
+Vitamin A Dose-9,Chhattisgarh,2020,739095
+Vitamin A Dose-9,Chhattisgarh,2021,808122
+Vitamin A Dose-9,Chhattisgarh,2022,877150
+Vitamin A Dose-9,Chhattisgarh,2023,946178
+Vitamin A Dose-9,Chhattisgarh,2024,1015206
+Vitamin A Dose-9,Chhattisgarh,2025,1084233
+Vitamin A Dose-9,Chhattisgarh,2026,1153261
+Vitamin A Dose-9,Chhattisgarh,2027,1222289
+Vitamin A Dose-9,Chhattisgarh,2028,1291317
+Vitamin A Dose-9,Chhattisgarh,2029,1360344
+Vitamin A Dose-9,Himachal Pradesh,2020,91775
+Vitamin A Dose-9,Himachal Pradesh,2021,80194
+Vitamin A Dose-9,Himachal Pradesh,2022,68613
+Vitamin A Dose-9,Himachal Pradesh,2023,57032
+Vitamin A Dose-9,Himachal Pradesh,2024,45451
+Vitamin A Dose-9,Himachal Pradesh,2025,33870
+Vitamin A Dose-9,Himachal Pradesh,2026,22289
+Vitamin A Dose-9,Himachal Pradesh,2027,10708
+Vitamin A Dose-9,Himachal Pradesh,2028,0
+Vitamin A Dose-9,Himachal Pradesh,2029,0
+Vitamin A Dose-9,Jammu & Kashmir,2020,20887
+Vitamin A Dose-9,Jammu & Kashmir,2021,0
+Vitamin A Dose-9,Jammu & Kashmir,2022,0
+Vitamin A Dose-9,Jammu & Kashmir,2023,0
+Vitamin A Dose-9,Jammu & Kashmir,2024,0
+Vitamin A Dose-9,Jammu & Kashmir,2025,0
+Vitamin A Dose-9,Jammu & Kashmir,2026,0
+Vitamin A Dose-9,Jammu & Kashmir,2027,0
+Vitamin A Dose-9,Jammu & Kashmir,2028,0
+Vitamin A Dose-9,Jammu & Kashmir,2029,0
+Vitamin A Dose-9,Jharkhand,2020,510777
+Vitamin A Dose-9,Jharkhand,2021,369679
+Vitamin A Dose-9,Jharkhand,2022,228581
+Vitamin A Dose-9,Jharkhand,2023,87483
+Vitamin A Dose-9,Jharkhand,2024,0
+Vitamin A Dose-9,Jharkhand,2025,0
+Vitamin A Dose-9,Jharkhand,2026,0
+Vitamin A Dose-9,Jharkhand,2027,0
+Vitamin A Dose-9,Jharkhand,2028,0
+Vitamin A Dose-9,Jharkhand,2029,0
+Vitamin A Dose-9,Madhya Pradesh,2020,2137883
+Vitamin A Dose-9,Madhya Pradesh,2021,2279981
+Vitamin A Dose-9,Madhya Pradesh,2022,2422078
+Vitamin A Dose-9,Madhya Pradesh,2023,2564175
+Vitamin A Dose-9,Madhya Pradesh,2024,2706272
+Vitamin A Dose-9,Madhya Pradesh,2025,2848369
+Vitamin A Dose-9,Madhya Pradesh,2026,2990466
+Vitamin A Dose-9,Madhya Pradesh,2027,3132563
+Vitamin A Dose-9,Madhya Pradesh,2028,3274660
+Vitamin A Dose-9,Madhya Pradesh,2029,3416758
+Vitamin A Dose-9,Odisha,2020,588593
+Vitamin A Dose-9,Odisha,2021,467045
+Vitamin A Dose-9,Odisha,2022,345497
+Vitamin A Dose-9,Odisha,2023,223948
+Vitamin A Dose-9,Odisha,2024,102400
+Vitamin A Dose-9,Odisha,2025,0
+Vitamin A Dose-9,Odisha,2026,0
+Vitamin A Dose-9,Odisha,2027,0
+Vitamin A Dose-9,Odisha,2028,0
+Vitamin A Dose-9,Odisha,2029,0
+Vitamin A Dose-9,Rajasthan,2020,1041963
+Vitamin A Dose-9,Rajasthan,2021,622933
+Vitamin A Dose-9,Rajasthan,2022,203902
+Vitamin A Dose-9,Rajasthan,2023,0
+Vitamin A Dose-9,Rajasthan,2024,0
+Vitamin A Dose-9,Rajasthan,2025,0
+Vitamin A Dose-9,Rajasthan,2026,0
+Vitamin A Dose-9,Rajasthan,2027,0
+Vitamin A Dose-9,Rajasthan,2028,0
+Vitamin A Dose-9,Rajasthan,2029,0
+Vitamin A Dose-9,Uttar Pradesh,2020,5639083
+Vitamin A Dose-9,Uttar Pradesh,2021,6192927
+Vitamin A Dose-9,Uttar Pradesh,2022,6746771
+Vitamin A Dose-9,Uttar Pradesh,2023,7300615
+Vitamin A Dose-9,Uttar Pradesh,2024,7854460
+Vitamin A Dose-9,Uttar Pradesh,2025,8408304
+Vitamin A Dose-9,Uttar Pradesh,2026,8962148
+Vitamin A Dose-9,Uttar Pradesh,2027,9515992
+Vitamin A Dose-9,Uttar Pradesh,2028,10069836
+Vitamin A Dose-9,Uttar Pradesh,2029,10623681
+Vitamin A Dose-9,Uttarakhand,2020,86486
+Vitamin A Dose-9,Uttarakhand,2021,0
+Vitamin A Dose-9,Uttarakhand,2022,0
+Vitamin A Dose-9,Uttarakhand,2023,0
+Vitamin A Dose-9,Uttarakhand,2024,0
+Vitamin A Dose-9,Uttarakhand,2025,0
+Vitamin A Dose-9,Uttarakhand,2026,0
+Vitamin A Dose-9,Uttarakhand,2027,0
+Vitamin A Dose-9,Uttarakhand,2028,0
+Vitamin A Dose-9,Uttarakhand,2029,0
+Vitamin A Dose-9,Goa,2020,21116
+Vitamin A Dose-9,Goa,2021,21036
+Vitamin A Dose-9,Goa,2022,20956
+Vitamin A Dose-9,Goa,2023,20876
+Vitamin A Dose-9,Goa,2024,20796
+Vitamin A Dose-9,Goa,2025,20716
+Vitamin A Dose-9,Goa,2026,20636
+Vitamin A Dose-9,Goa,2027,20556
+Vitamin A Dose-9,Goa,2028,20476
+Vitamin A Dose-9,Goa,2029,20396
+Vitamin A Dose-9,Gujarat,2020,1316861
+Vitamin A Dose-9,Gujarat,2021,1323557
+Vitamin A Dose-9,Gujarat,2022,1330253
+Vitamin A Dose-9,Gujarat,2023,1336948
+Vitamin A Dose-9,Gujarat,2024,1343644
+Vitamin A Dose-9,Gujarat,2025,1350340
+Vitamin A Dose-9,Gujarat,2026,1357036
+Vitamin A Dose-9,Gujarat,2027,1363731
+Vitamin A Dose-9,Gujarat,2028,1370427
+Vitamin A Dose-9,Gujarat,2029,1377123
+Vitamin A Dose-9,Haryana,2020,459611
+Vitamin A Dose-9,Haryana,2021,437049
+Vitamin A Dose-9,Haryana,2022,414486
+Vitamin A Dose-9,Haryana,2023,391924
+Vitamin A Dose-9,Haryana,2024,369362
+Vitamin A Dose-9,Haryana,2025,346799
+Vitamin A Dose-9,Haryana,2026,324237
+Vitamin A Dose-9,Haryana,2027,301674
+Vitamin A Dose-9,Haryana,2028,279112
+Vitamin A Dose-9,Haryana,2029,256550
+Vitamin A Dose-9,Karnataka,2020,1295180
+Vitamin A Dose-9,Karnataka,2021,1328539
+Vitamin A Dose-9,Karnataka,2022,1361899
+Vitamin A Dose-9,Karnataka,2023,1395258
+Vitamin A Dose-9,Karnataka,2024,1428618
+Vitamin A Dose-9,Karnataka,2025,1461977
+Vitamin A Dose-9,Karnataka,2026,1495337
+Vitamin A Dose-9,Karnataka,2027,1528697
+Vitamin A Dose-9,Karnataka,2028,1562056
+Vitamin A Dose-9,Karnataka,2029,1595416
+Vitamin A Dose-9,Kerala,2020,502934
+Vitamin A Dose-9,Kerala,2021,503468
+Vitamin A Dose-9,Kerala,2022,504002
+Vitamin A Dose-9,Kerala,2023,504536
+Vitamin A Dose-9,Kerala,2024,505069
+Vitamin A Dose-9,Kerala,2025,505603
+Vitamin A Dose-9,Kerala,2026,506137
+Vitamin A Dose-9,Kerala,2027,506671
+Vitamin A Dose-9,Kerala,2028,507205
+Vitamin A Dose-9,Kerala,2029,507738
+Vitamin A Dose-9,Maharashtra,2020,2221025
+Vitamin A Dose-9,Maharashtra,2021,2300559
+Vitamin A Dose-9,Maharashtra,2022,2380093
+Vitamin A Dose-9,Maharashtra,2023,2459627
+Vitamin A Dose-9,Maharashtra,2024,2539161
+Vitamin A Dose-9,Maharashtra,2025,2618695
+Vitamin A Dose-9,Maharashtra,2026,2698229
+Vitamin A Dose-9,Maharashtra,2027,2777763
+Vitamin A Dose-9,Maharashtra,2028,2857298
+Vitamin A Dose-9,Maharashtra,2029,2936832
+Vitamin A Dose-9,Punjab,2020,340183
+Vitamin A Dose-9,Punjab,2021,314421
+Vitamin A Dose-9,Punjab,2022,288658
+Vitamin A Dose-9,Punjab,2023,262895
+Vitamin A Dose-9,Punjab,2024,237133
+Vitamin A Dose-9,Punjab,2025,211370
+Vitamin A Dose-9,Punjab,2026,185607
+Vitamin A Dose-9,Punjab,2027,159845
+Vitamin A Dose-9,Punjab,2028,134082
+Vitamin A Dose-9,Punjab,2029,108319
+Vitamin A Dose-9,Tamil Nadu,2020,1036360
+Vitamin A Dose-9,Tamil Nadu,2021,1017890
+Vitamin A Dose-9,Tamil Nadu,2022,999421
+Vitamin A Dose-9,Tamil Nadu,2023,980951
+Vitamin A Dose-9,Tamil Nadu,2024,962481
+Vitamin A Dose-9,Tamil Nadu,2025,944012
+Vitamin A Dose-9,Tamil Nadu,2026,925542
+Vitamin A Dose-9,Tamil Nadu,2027,907072
+Vitamin A Dose-9,Tamil Nadu,2028,888603
+Vitamin A Dose-9,Tamil Nadu,2029,870133
+Vitamin A Dose-9,West Bengal,2020,1696954
+Vitamin A Dose-9,West Bengal,2021,1757451
+Vitamin A Dose-9,West Bengal,2022,1817949
+Vitamin A Dose-9,West Bengal,2023,1878446
+Vitamin A Dose-9,West Bengal,2024,1938944
+Vitamin A Dose-9,West Bengal,2025,1999441
+Vitamin A Dose-9,West Bengal,2026,2059939
+Vitamin A Dose-9,West Bengal,2027,2120436
+Vitamin A Dose-9,West Bengal,2028,2180934
+Vitamin A Dose-9,West Bengal,2029,2241431
+Vitamin A Dose-9,A & N Islands,2020,2010
+Vitamin A Dose-9,A & N Islands,2021,1189
+Vitamin A Dose-9,A & N Islands,2022,367
+Vitamin A Dose-9,A & N Islands,2023,0
+Vitamin A Dose-9,A & N Islands,2024,0
+Vitamin A Dose-9,A & N Islands,2025,0
+Vitamin A Dose-9,A & N Islands,2026,0
+Vitamin A Dose-9,A & N Islands,2027,0
+Vitamin A Dose-9,A & N Islands,2028,0
+Vitamin A Dose-9,A & N Islands,2029,0
+Vitamin A Dose-9,Chandigarh,2020,22446
+Vitamin A Dose-9,Chandigarh,2021,23331
+Vitamin A Dose-9,Chandigarh,2022,24216
+Vitamin A Dose-9,Chandigarh,2023,25102
+Vitamin A Dose-9,Chandigarh,2024,25987
+Vitamin A Dose-9,Chandigarh,2025,26872
+Vitamin A Dose-9,Chandigarh,2026,27757
+Vitamin A Dose-9,Chandigarh,2027,28642
+Vitamin A Dose-9,Chandigarh,2028,29528
+Vitamin A Dose-9,Chandigarh,2029,30413
+Vitamin A Dose-9,Dadra & Nagar Haveli,2020,11354
+Vitamin A Dose-9,Dadra & Nagar Haveli,2021,11694
+Vitamin A Dose-9,Dadra & Nagar Haveli,2022,12033
+Vitamin A Dose-9,Dadra & Nagar Haveli,2023,12372
+Vitamin A Dose-9,Dadra & Nagar Haveli,2024,12712
+Vitamin A Dose-9,Dadra & Nagar Haveli,2025,13051
+Vitamin A Dose-9,Dadra & Nagar Haveli,2026,13391
+Vitamin A Dose-9,Dadra & Nagar Haveli,2027,13730
+Vitamin A Dose-9,Dadra & Nagar Haveli,2028,14070
+Vitamin A Dose-9,Dadra & Nagar Haveli,2029,14409
+Vitamin A Dose-9,Daman & Diu,2020,0
+Vitamin A Dose-9,Daman & Diu,2021,0
+Vitamin A Dose-9,Daman & Diu,2022,0
+Vitamin A Dose-9,Daman & Diu,2023,0
+Vitamin A Dose-9,Daman & Diu,2024,0
+Vitamin A Dose-9,Daman & Diu,2025,0
+Vitamin A Dose-9,Daman & Diu,2026,0
+Vitamin A Dose-9,Daman & Diu,2027,0
+Vitamin A Dose-9,Daman & Diu,2028,0
+Vitamin A Dose-9,Daman & Diu,2029,0
+Vitamin A Dose-9,Delhi,2020,369361
+Vitamin A Dose-9,Delhi,2021,384857
+Vitamin A Dose-9,Delhi,2022,400352
+Vitamin A Dose-9,Delhi,2023,415847
+Vitamin A Dose-9,Delhi,2024,431342
+Vitamin A Dose-9,Delhi,2025,446837
+Vitamin A Dose-9,Delhi,2026,462333
+Vitamin A Dose-9,Delhi,2027,477828
+Vitamin A Dose-9,Delhi,2028,493323
+Vitamin A Dose-9,Delhi,2029,508818
+Vitamin A Dose-9,Lakshadweep,2020,0
+Vitamin A Dose-9,Lakshadweep,2021,0
+Vitamin A Dose-9,Lakshadweep,2022,0
+Vitamin A Dose-9,Lakshadweep,2023,0
+Vitamin A Dose-9,Lakshadweep,2024,0
+Vitamin A Dose-9,Lakshadweep,2025,0
+Vitamin A Dose-9,Lakshadweep,2026,0
+Vitamin A Dose-9,Lakshadweep,2027,0
+Vitamin A Dose-9,Lakshadweep,2028,0
+Vitamin A Dose-9,Lakshadweep,2029,0
