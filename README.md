@@ -1,1 +1,1 @@
-# HMIS Web Scraper and Predcition Model
+# HMIS Web Scraper and Prediction Model
