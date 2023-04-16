@@ -30,4 +30,4 @@ Using the data that we have scraped from HMIS, we have trained our AI model via 
 in order to accurately predict year-wise requirement of the vaccine stock that needs to be procured 
 to meet the future needs and reach the goal by a certain year. The model also generates informative graph to represent the predictions.
 
-![BCG Report for Haryana 2028](./media/haryana-bcg-2028.png)
+<img src="./media/haryana-bcg-2028.png" alt="BCG Report for Haryana 2028" width="600rem">
