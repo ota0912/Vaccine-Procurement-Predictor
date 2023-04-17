@@ -26,11 +26,8 @@ def predict(vaccine,state,year):
     inp = inp.reshape(len(x),1)
     output_cases = np.copy(y)
     output_vaccinated = np.copy(z)
-    np.random.seed(42)
-    x_train,x_test,y_train,y_test = train_test_split(inp,output_cases,test_size = 1)
-    x1_train,x1_test,y1_train,y1_test = train_test_split(inp,output_vaccinated,test_size = 1)
-    reg1 = LinearRegression().fit(x_train, y_train)#model for cases
-    reg2 = LinearRegression().fit(x1_train, y1_train)#model for vaccinated
+    reg1 = LinearRegression().fit(inp, output_cases)#model for cases
+    reg2 = LinearRegression().fit(inp, output_vaccinated)#model for vaccinated
     x=x.to_list()
     y=y.to_list()
     z=z.to_list()
