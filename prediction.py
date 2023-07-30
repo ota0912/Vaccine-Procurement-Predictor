@@ -7,15 +7,7 @@ import numpy as np
 
 def predict(vaccine,state,year):
     df = pd.read_csv("./Web Scraper/compiled_report.csv")
-    i=0
-    initial=-1
-    final=-1
-    for index, row in df.iterrows():
-        if(row['VACCINE']==vaccine and row['STATE']==state):
-            if(initial==-1): initial=i
-            final=i+1
-        elif(final!=-1): break
-        i+=1
+    df = df[(df["VACCINE"]==vaccine) & (df["STATE"]==state)]
     df = df.iloc[initial:final]
     df = df.drop("STATE",axis = 1)
     df = df.drop("VACCINE",axis = 1)
